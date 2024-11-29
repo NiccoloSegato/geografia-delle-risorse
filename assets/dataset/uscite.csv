@@ -589,6 +589,10 @@ Piemonte;Altre opere pubbliche;2014;30922540,00
 Piemonte;Altre opere pubbliche;2015;18506070,00
 Piemonte;Altre opere pubbliche;2016;9153000,00
 Piemonte;Altre opere pubbliche;2017;11710750,00
+Piemonte;Altre opere pubbliche;2018;0,00
+Piemonte;Altre opere pubbliche;2019;0,00
+Piemonte;Altre opere pubbliche;2020;0,00
+Piemonte;Altre opere pubbliche;2021;0,00
 Piemonte;Altre in campo economico;2000;1750773700,00
 Piemonte;Altre in campo economico;2001;2601096690,00
 Piemonte;Altre in campo economico;2002;3099372970,00
@@ -765,10 +769,10 @@ Valle d'Aosta;Formazione;2018;6023100,00
 Valle d'Aosta;Formazione;2019;9994940,00
 Valle d'Aosta;Formazione;2020;6445780,00
 Valle d'Aosta;Formazione;2021;7634690,00
-Valle d'Aosta;Ricerca e Sviluppo;2000;0458570,00
-Valle d'Aosta;Ricerca e Sviluppo;2001;0483900,00
+Valle d'Aosta;Ricerca e Sviluppo;2000;458570,00
+Valle d'Aosta;Ricerca e Sviluppo;2001;483900,00
 Valle d'Aosta;Ricerca e Sviluppo;2002;7892200,00
-Valle d'Aosta;Ricerca e Sviluppo;2003;0516370,00
+Valle d'Aosta;Ricerca e Sviluppo;2003;516370,00
 Valle d'Aosta;Ricerca e Sviluppo;2004;1663760,00
 Valle d'Aosta;Ricerca e Sviluppo;2005;2768550,00
 Valle d'Aosta;Ricerca e Sviluppo;2006;3157730,00
@@ -942,12 +946,21 @@ Valle d'Aosta;Smaltimento dei Rifiuti;2019;15207150,00
 Valle d'Aosta;Smaltimento dei Rifiuti;2020;15653200,00
 Valle d'Aosta;Smaltimento dei Rifiuti;2021;11361560,00
 Valle d'Aosta;Altri interventi igenico sanitari;2000;2793600,00
-Valle d'Aosta;Altri interventi igenico sanitari;2008;0029380,00
-Valle d'Aosta;Altri interventi igenico sanitari;2009;0126490,00
-Valle d'Aosta;Altri interventi igenico sanitari;2010;0627150,00
-Valle d'Aosta;Altri interventi igenico sanitari;2011;0000000,00
-Valle d'Aosta;Altri interventi igenico sanitari;2012;0000000,00
-Valle d'Aosta;Altri interventi igenico sanitari;2013;0000000,00
+Valle d'Aosta;Altri interventi igenico sanitari;2001;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2002;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2003;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2004;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2005;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2006;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2007;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2008;29380,00
+Valle d'Aosta;Altri interventi igenico sanitari;2009;126490,00
+Valle d'Aosta;Altri interventi igenico sanitari;2010;627150,00
+Valle d'Aosta;Altri interventi igenico sanitari;2011;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2012;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2013;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2014;0,00
+Valle d'Aosta;Altri interventi igenico sanitari;2015;0,00
 Valle d'Aosta;Altri interventi igenico sanitari;2016;1512320,00
 Valle d'Aosta;Altri interventi igenico sanitari;2017;1664880,00
 Valle d'Aosta;Altri interventi igenico sanitari;2018;1551010,00
@@ -1086,28 +1099,28 @@ Valle d'Aosta;Agricoltura;2018;14470140,00
 Valle d'Aosta;Agricoltura;2019;15920980,00
 Valle d'Aosta;Agricoltura;2020;23559840,00
 Valle d'Aosta;Agricoltura;2021;23964420,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2000;0003690,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2001;0005470,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2002;0025470,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2003;0026000,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2004;0141650,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2005;0088800,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2006;0025830,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2007;0039050,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2008;0143230,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2009;0091990,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2010;0161450,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2011;0116740,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2012;0085990,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2013;0119720,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2014;0115130,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2015;0065890,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2016;0214610,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2017;0641390,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2018;0530050,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2019;0943420,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2020;0990590,00
-Valle d'Aosta;Pesca marittima e Acquicoltura;2021;0900130,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2000;3690,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2001;5470,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2002;25470,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2003;26000,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2004;141650,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2005;88800,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2006;25830,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2007;39050,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2008;143230,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2009;91990,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2010;161450,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2011;116740,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2012;85990,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2013;119720,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2014;115130,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2015;65890,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2016;214610,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2017;641390,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2018;530050,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2019;943420,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2020;990590,00
+Valle d'Aosta;Pesca marittima e Acquicoltura;2021;900130,00
 Valle d'Aosta;Turismo;2000;48779040,00
 Valle d'Aosta;Turismo;2001;32527750,00
 Valle d'Aosta;Turismo;2002;34920750,00
@@ -1212,6 +1225,12 @@ Valle d'Aosta;Altre opere pubbliche;2012;12135880,00
 Valle d'Aosta;Altre opere pubbliche;2013;7984610,00
 Valle d'Aosta;Altre opere pubbliche;2014;11796310,00
 Valle d'Aosta;Altre opere pubbliche;2015;5301580,00
+Valle d'Aosta;Altre opere pubbliche;2016;0,00
+Valle d'Aosta;Altre opere pubbliche;2017;0,00
+Valle d'Aosta;Altre opere pubbliche;2018;0,00
+Valle d'Aosta;Altre opere pubbliche;2019;0,00
+Valle d'Aosta;Altre opere pubbliche;2020;0,00
+Valle d'Aosta;Altre opere pubbliche;2021;0,00
 Valle d'Aosta;Altre in campo economico;2000;248762320,00
 Valle d'Aosta;Altre in campo economico;2001;604771940,00
 Valle d'Aosta;Altre in campo economico;2002;226957950,00
@@ -1733,7 +1752,7 @@ Lombardia;Pesca marittima e Acquicoltura;2011;2024270,00
 Lombardia;Pesca marittima e Acquicoltura;2012;1575750,00
 Lombardia;Pesca marittima e Acquicoltura;2013;1375480,00
 Lombardia;Pesca marittima e Acquicoltura;2014;1571830,00
-Lombardia;Pesca marittima e Acquicoltura;2015;0569320,00
+Lombardia;Pesca marittima e Acquicoltura;2015;569320,00
 Lombardia;Pesca marittima e Acquicoltura;2016;4713840,00
 Lombardia;Pesca marittima e Acquicoltura;2017;20519340,00
 Lombardia;Pesca marittima e Acquicoltura;2018;20997640,00
@@ -1849,6 +1868,7 @@ Lombardia;Altre opere pubbliche;2017;73464720,00
 Lombardia;Altre opere pubbliche;2018;49449770,00
 Lombardia;Altre opere pubbliche;2019;78644640,00
 Lombardia;Altre opere pubbliche;2020;79037880,00
+Lombardia;Altre opere pubbliche;2021;0,00
 Lombardia;Altre in campo economico;2000;4542574920,00
 Lombardia;Altre in campo economico;2001;5724580800,00
 Lombardia;Altre in campo economico;2002;6652417120,00
@@ -2465,16 +2485,28 @@ Veneto;Energia;2018;6360836400,00
 Veneto;Energia;2019;6146384810,00
 Veneto;Energia;2020;6237791030,00
 Veneto;Energia;2021;7215738230,00
-Veneto;Altre opere pubbliche;2005;0014560,00
-Veneto;Altre opere pubbliche;2006;0020690,00
-Veneto;Altre opere pubbliche;2007;0048220,00
-Veneto;Altre opere pubbliche;2008;0604320,00
-Veneto;Altre opere pubbliche;2009;0035090,00
-Veneto;Altre opere pubbliche;2010;0400280,00
+Veneto;Altre opere pubbliche;2000;0,00
+Veneto;Altre opere pubbliche;2001;0,00
+Veneto;Altre opere pubbliche;2002;0,00
+Veneto;Altre opere pubbliche;2003;0,00
+Veneto;Altre opere pubbliche;2004;0,00
+Veneto;Altre opere pubbliche;2005;14560,00
+Veneto;Altre opere pubbliche;2006;20690,00
+Veneto;Altre opere pubbliche;2007;48220,00
+Veneto;Altre opere pubbliche;2008;604320,00
+Veneto;Altre opere pubbliche;2009;35090,00
+Veneto;Altre opere pubbliche;2010;400280,00
 Veneto;Altre opere pubbliche;2011;1483160,00
 Veneto;Altre opere pubbliche;2012;2076500,00
-Veneto;Altre opere pubbliche;2013;0094470,00
-Veneto;Altre opere pubbliche;2014;0029140,00
+Veneto;Altre opere pubbliche;2013;94470,00
+Veneto;Altre opere pubbliche;2014;29140,00
+Veneto;Altre opere pubbliche;2015;0,00
+Veneto;Altre opere pubbliche;2016;0,00
+Veneto;Altre opere pubbliche;2017;0,00
+Veneto;Altre opere pubbliche;2018;0,00
+Veneto;Altre opere pubbliche;2019;0,00
+Veneto;Altre opere pubbliche;2020;0,00
+Veneto;Altre opere pubbliche;2021;0,00
 Veneto;Altre in campo economico;2000;1885959480,00
 Veneto;Altre in campo economico;2001;2023525870,00
 Veneto;Altre in campo economico;2002;2248663570,00
@@ -3091,28 +3123,28 @@ Friuli Venezia Giulia;Energia;2018;1255519720,00
 Friuli Venezia Giulia;Energia;2019;1462358070,00
 Friuli Venezia Giulia;Energia;2020;1194369320,00
 Friuli Venezia Giulia;Energia;2021;1477352350,00
-Friuli Venezia Giulia;Altre opere pubbliche;2000;0555820,00
-Friuli Venezia Giulia;Altre opere pubbliche;2001;0573820,00
-Friuli Venezia Giulia;Altre opere pubbliche;2002;0586300,00
-Friuli Venezia Giulia;Altre opere pubbliche;2003;0879430,00
+Friuli Venezia Giulia;Altre opere pubbliche;2000;555820,00
+Friuli Venezia Giulia;Altre opere pubbliche;2001;573820,00
+Friuli Venezia Giulia;Altre opere pubbliche;2002;586300,00
+Friuli Venezia Giulia;Altre opere pubbliche;2003;879430,00
 Friuli Venezia Giulia;Altre opere pubbliche;2004;8055280,00
 Friuli Venezia Giulia;Altre opere pubbliche;2005;8075970,00
 Friuli Venezia Giulia;Altre opere pubbliche;2006;4214400,00
-Friuli Venezia Giulia;Altre opere pubbliche;2007;0790680,00
+Friuli Venezia Giulia;Altre opere pubbliche;2007;790680,00
 Friuli Venezia Giulia;Altre opere pubbliche;2008;1204200,00
-Friuli Venezia Giulia;Altre opere pubbliche;2009;0778150,00
-Friuli Venezia Giulia;Altre opere pubbliche;2010;0700060,00
+Friuli Venezia Giulia;Altre opere pubbliche;2009;778150,00
+Friuli Venezia Giulia;Altre opere pubbliche;2010;700060,00
 Friuli Venezia Giulia;Altre opere pubbliche;2011;1658390,00
 Friuli Venezia Giulia;Altre opere pubbliche;2012;2864320,00
-Friuli Venezia Giulia;Altre opere pubbliche;2013;0645660,00
-Friuli Venezia Giulia;Altre opere pubbliche;2014;0452780,00
-Friuli Venezia Giulia;Altre opere pubbliche;2015;0523690,00
-Friuli Venezia Giulia;Altre opere pubbliche;2016;0468700,00
-Friuli Venezia Giulia;Altre opere pubbliche;2017;0543580,00
-Friuli Venezia Giulia;Altre opere pubbliche;2018;0409090,00
-Friuli Venezia Giulia;Altre opere pubbliche;2019;0973920,00
-Friuli Venezia Giulia;Altre opere pubbliche;2020;0961890,00
-Friuli Venezia Giulia;Altre opere pubbliche;2021;0509750,00
+Friuli Venezia Giulia;Altre opere pubbliche;2013;645660,00
+Friuli Venezia Giulia;Altre opere pubbliche;2014;452780,00
+Friuli Venezia Giulia;Altre opere pubbliche;2015;523690,00
+Friuli Venezia Giulia;Altre opere pubbliche;2016;468700,00
+Friuli Venezia Giulia;Altre opere pubbliche;2017;543580,00
+Friuli Venezia Giulia;Altre opere pubbliche;2018;409090,00
+Friuli Venezia Giulia;Altre opere pubbliche;2019;973920,00
+Friuli Venezia Giulia;Altre opere pubbliche;2020;961890,00
+Friuli Venezia Giulia;Altre opere pubbliche;2021;509750,00
 Friuli Venezia Giulia;Altre in campo economico;2000;605237200,00
 Friuli Venezia Giulia;Altre in campo economico;2001;686036320,00
 Friuli Venezia Giulia;Altre in campo economico;2002;727126260,00
@@ -3619,8 +3651,8 @@ Liguria;Agricoltura;2018;17095810,00
 Liguria;Agricoltura;2019;15203480,00
 Liguria;Agricoltura;2020;23524290,00
 Liguria;Agricoltura;2021;26023840,00
-Liguria;Pesca marittima e Acquicoltura;2000;0628240,00
-Liguria;Pesca marittima e Acquicoltura;2001;0883160,00
+Liguria;Pesca marittima e Acquicoltura;2000;628240,00
+Liguria;Pesca marittima e Acquicoltura;2001;883160,00
 Liguria;Pesca marittima e Acquicoltura;2002;2355290,00
 Liguria;Pesca marittima e Acquicoltura;2003;1609690,00
 Liguria;Pesca marittima e Acquicoltura;2004;3505940,00
@@ -3729,17 +3761,28 @@ Liguria;Energia;2018;1992413510,00
 Liguria;Energia;2019;2096040520,00
 Liguria;Energia;2020;1715248380,00
 Liguria;Energia;2021;2038987730,00
-Liguria;Altre opere pubbliche;2005;0011750,00
-Liguria;Altre opere pubbliche;2006;0018650,00
-Liguria;Altre opere pubbliche;2007;0027990,00
-Liguria;Altre opere pubbliche;2008;0644320,00
-Liguria;Altre opere pubbliche;2009;0052730,00
-Liguria;Altre opere pubbliche;2010;0104570,00
+Liguria;Altre opere pubbliche;2000;0,00
+Liguria;Altre opere pubbliche;2001;0,00
+Liguria;Altre opere pubbliche;2002;0,00
+Liguria;Altre opere pubbliche;2003;0,00
+Liguria;Altre opere pubbliche;2004;0,00
+Liguria;Altre opere pubbliche;2005;11750,00
+Liguria;Altre opere pubbliche;2006;18650,00
+Liguria;Altre opere pubbliche;2007;27990,00
+Liguria;Altre opere pubbliche;2008;644320,00
+Liguria;Altre opere pubbliche;2009;52730,00
+Liguria;Altre opere pubbliche;2010;104570,00
 Liguria;Altre opere pubbliche;2011;2284870,00
 Liguria;Altre opere pubbliche;2012;4474630,00
 Liguria;Altre opere pubbliche;2013;4545400,00
-Liguria;Altre opere pubbliche;2014;0052580,00
-Liguria;Altre opere pubbliche;2018;0380730,00
+Liguria;Altre opere pubbliche;2014;52580,00
+Liguria;Altre opere pubbliche;2015;0,00
+Liguria;Altre opere pubbliche;2016;0,00
+Liguria;Altre opere pubbliche;2017;0,00
+Liguria;Altre opere pubbliche;2018;380730,00
+Liguria;Altre opere pubbliche;2019;0,00
+Liguria;Altre opere pubbliche;2020;0,00
+Liguria;Altre opere pubbliche;2021;0,00
 Liguria;Altre in campo economico;2000;767299990,00
 Liguria;Altre in campo economico;2001;1237729410,00
 Liguria;Altre in campo economico;2002;1473287590,00
@@ -4371,11 +4414,13 @@ Emilia Romagna;Altre opere pubbliche;2011;23278910,00
 Emilia Romagna;Altre opere pubbliche;2012;16423270,00
 Emilia Romagna;Altre opere pubbliche;2013;10553730,00
 Emilia Romagna;Altre opere pubbliche;2014;14212360,00
-Emilia Romagna;Altre opere pubbliche;2015;0517240,00
-Emilia Romagna;Altre opere pubbliche;2016;0318950,00
-Emilia Romagna;Altre opere pubbliche;2017;0289430,00
-Emilia Romagna;Altre opere pubbliche;2018;0297090,00
-Emilia Romagna;Altre opere pubbliche;2019;0014000,00
+Emilia Romagna;Altre opere pubbliche;2015;517240,00
+Emilia Romagna;Altre opere pubbliche;2016;318950,00
+Emilia Romagna;Altre opere pubbliche;2017;289430,00
+Emilia Romagna;Altre opere pubbliche;2018;297090,00
+Emilia Romagna;Altre opere pubbliche;2019;14000,00
+Emilia Romagna;Altre opere pubbliche;2020;0,00
+Emilia Romagna;Altre opere pubbliche;2021;0,00
 Emilia Romagna;Altre in campo economico;2000;1284222680,00
 Emilia Romagna;Altre in campo economico;2001;1329271710,00
 Emilia Romagna;Altre in campo economico;2002;1537120550,00
@@ -4895,9 +4940,9 @@ Toscana;Pesca marittima e Acquicoltura;2009;1858850,00
 Toscana;Pesca marittima e Acquicoltura;2010;2092240,00
 Toscana;Pesca marittima e Acquicoltura;2011;1248070,00
 Toscana;Pesca marittima e Acquicoltura;2012;1290870,00
-Toscana;Pesca marittima e Acquicoltura;2013;0785180,00
-Toscana;Pesca marittima e Acquicoltura;2014;0728400,00
-Toscana;Pesca marittima e Acquicoltura;2015;0398460,00
+Toscana;Pesca marittima e Acquicoltura;2013;785180,00
+Toscana;Pesca marittima e Acquicoltura;2014;728400,00
+Toscana;Pesca marittima e Acquicoltura;2015;398460,00
 Toscana;Pesca marittima e Acquicoltura;2016;1712110,00
 Toscana;Pesca marittima e Acquicoltura;2017;15272040,00
 Toscana;Pesca marittima e Acquicoltura;2018;11297650,00
@@ -5008,9 +5053,12 @@ Toscana;Altre opere pubbliche;2012;9439070,00
 Toscana;Altre opere pubbliche;2013;4132430,00
 Toscana;Altre opere pubbliche;2014;9825060,00
 Toscana;Altre opere pubbliche;2015;2142460,00
-Toscana;Altre opere pubbliche;2016;0035080,00
+Toscana;Altre opere pubbliche;2016;35080,00
 Toscana;Altre opere pubbliche;2017;6771710,00
 Toscana;Altre opere pubbliche;2018;4986790,00
+Toscana;Altre opere pubbliche;2019;4986790,00
+Toscana;Altre opere pubbliche;2020;4986790,00
+Toscana;Altre opere pubbliche;2021;4986790,00
 Toscana;Altre in campo economico;2000;1367779000,00
 Toscana;Altre in campo economico;2001;1482626960,00
 Toscana;Altre in campo economico;2002;1634364490,00
@@ -5517,12 +5565,12 @@ Umbria;Agricoltura;2018;111184280,00
 Umbria;Agricoltura;2019;107793780,00
 Umbria;Agricoltura;2020;129367590,00
 Umbria;Agricoltura;2021;140265030,00
-Umbria;Pesca marittima e Acquicoltura;2000;0830260,00
-Umbria;Pesca marittima e Acquicoltura;2001;0861590,00
-Umbria;Pesca marittima e Acquicoltura;2002;0894780,00
-Umbria;Pesca marittima e Acquicoltura;2003;0984700,00
+Umbria;Pesca marittima e Acquicoltura;2000;830260,00
+Umbria;Pesca marittima e Acquicoltura;2001;861590,00
+Umbria;Pesca marittima e Acquicoltura;2002;894780,00
+Umbria;Pesca marittima e Acquicoltura;2003;984700,00
 Umbria;Pesca marittima e Acquicoltura;2004;1130260,00
-Umbria;Pesca marittima e Acquicoltura;2005;0998410,00
+Umbria;Pesca marittima e Acquicoltura;2005;998410,00
 Umbria;Pesca marittima e Acquicoltura;2006;1371410,00
 Umbria;Pesca marittima e Acquicoltura;2007;1096290,00
 Umbria;Pesca marittima e Acquicoltura;2008;1130830,00
@@ -5642,7 +5690,13 @@ Umbria;Altre opere pubbliche;2011;7209060,00
 Umbria;Altre opere pubbliche;2012;11787870,00
 Umbria;Altre opere pubbliche;2013;1300560,00
 Umbria;Altre opere pubbliche;2014;3094630,00
-Umbria;Altre opere pubbliche;2016;0549180,00
+Umbria;Altre opere pubbliche;2015;0,00
+Umbria;Altre opere pubbliche;2016;549180,00
+Umbria;Altre opere pubbliche;2017;0,00
+Umbria;Altre opere pubbliche;2018;0,00
+Umbria;Altre opere pubbliche;2019;0,00
+Umbria;Altre opere pubbliche;2020;0,00
+Umbria;Altre opere pubbliche;2021;0,00
 Umbria;Altre in campo economico;2000;419365630,00
 Umbria;Altre in campo economico;2001;449941090,00
 Umbria;Altre in campo economico;2002;443359910,00
@@ -6259,14 +6313,14 @@ Marche;Energia;2018;1765931880,00
 Marche;Energia;2019;1825082210,00
 Marche;Energia;2020;1580414620,00
 Marche;Energia;2021;1928535290,00
-Marche;Altre opere pubbliche;2000;0001540,00
-Marche;Altre opere pubbliche;2001;0000000,00
-Marche;Altre opere pubbliche;2002;0028920,00
-Marche;Altre opere pubbliche;2003;0336360,00
-Marche;Altre opere pubbliche;2004;0221030,00
-Marche;Altre opere pubbliche;2005;0388110,00
+Marche;Altre opere pubbliche;2000;1540,00
+Marche;Altre opere pubbliche;2001;0,00
+Marche;Altre opere pubbliche;2002;28920,00
+Marche;Altre opere pubbliche;2003;336360,00
+Marche;Altre opere pubbliche;2004;221030,00
+Marche;Altre opere pubbliche;2005;388110,00
 Marche;Altre opere pubbliche;2006;11887830,00
-Marche;Altre opere pubbliche;2007;0233170,00
+Marche;Altre opere pubbliche;2007;233170,00
 Marche;Altre opere pubbliche;2008;1871580,00
 Marche;Altre opere pubbliche;2009;2037070,00
 Marche;Altre opere pubbliche;2010;1878200,00
@@ -6278,9 +6332,9 @@ Marche;Altre opere pubbliche;2015;1941880,00
 Marche;Altre opere pubbliche;2016;1726790,00
 Marche;Altre opere pubbliche;2017;1008450,00
 Marche;Altre opere pubbliche;2018;1150870,00
-Marche;Altre opere pubbliche;2019;0828770,00
-Marche;Altre opere pubbliche;2020;0828310,00
-Marche;Altre opere pubbliche;2021;0897850,00
+Marche;Altre opere pubbliche;2019;828770,00
+Marche;Altre opere pubbliche;2020;828310,00
+Marche;Altre opere pubbliche;2021;897850,00
 Marche;Altre in campo economico;2000;565441990,00
 Marche;Altre in campo economico;2001;653448530,00
 Marche;Altre in campo economico;2002;704096780,00
@@ -6963,1272 +7017,644 @@ Lazio;Oneri non ripartibili;2018;10462871550,00
 Lazio;Oneri non ripartibili;2019;10053763090,00
 Lazio;Oneri non ripartibili;2020;10908325490,00
 Lazio;Oneri non ripartibili;2021;10270521080,00
-Trentino-Alto Adige;Amministrazione Generale;2000;739332410,00
-Trentino-Alto Adige;Amministrazione Generale;2001;933385020,00
-Trentino-Alto Adige;Amministrazione Generale;2002;873346660,00
-Trentino-Alto Adige;Amministrazione Generale;2003;952395480,00
-Trentino-Alto Adige;Amministrazione Generale;2004;993115740,00
-Trentino-Alto Adige;Amministrazione Generale;2005;1006778580,00
-Trentino-Alto Adige;Amministrazione Generale;2006;975558570,00
-Trentino-Alto Adige;Amministrazione Generale;2007;1017093530,00
-Trentino-Alto Adige;Amministrazione Generale;2008;1034400060,00
-Trentino-Alto Adige;Amministrazione Generale;2009;1112511400,00
-Trentino-Alto Adige;Amministrazione Generale;2010;1079850610,00
-Trentino-Alto Adige;Amministrazione Generale;2011;953672080,00
-Trentino-Alto Adige;Amministrazione Generale;2012;950355340,00
-Trentino-Alto Adige;Amministrazione Generale;2013;965927570,00
-Trentino-Alto Adige;Amministrazione Generale;2014;994182650,00
-Trentino-Alto Adige;Amministrazione Generale;2015;2443495850,00
-Trentino-Alto Adige;Amministrazione Generale;2016;1442834060,00
-Trentino-Alto Adige;Amministrazione Generale;2017;1116918840,00
-Trentino-Alto Adige;Amministrazione Generale;2018;1547593100,00
-Trentino-Alto Adige;Amministrazione Generale;2019;1527353560,00
-Trentino-Alto Adige;Amministrazione Generale;2020;1550395960,00
-Trentino-Alto Adige;Amministrazione Generale;2021;1584000370,00
-Trentino-Alto Adige;Difesa;2000;50970750,00
-Trentino-Alto Adige;Difesa;2001;78510200,00
-Trentino-Alto Adige;Difesa;2002;109733030,00
-Trentino-Alto Adige;Difesa;2003;54220220,00
-Trentino-Alto Adige;Difesa;2004;73925370,00
-Trentino-Alto Adige;Difesa;2005;75847630,00
-Trentino-Alto Adige;Difesa;2006;62307400,00
-Trentino-Alto Adige;Difesa;2007;58499120,00
-Trentino-Alto Adige;Difesa;2008;130140650,00
-Trentino-Alto Adige;Difesa;2009;138053820,00
-Trentino-Alto Adige;Difesa;2010;103479460,00
-Trentino-Alto Adige;Difesa;2011;42519870,00
-Trentino-Alto Adige;Difesa;2012;28356750,00
-Trentino-Alto Adige;Difesa;2013;47529090,00
-Trentino-Alto Adige;Difesa;2014;25522610,00
-Trentino-Alto Adige;Difesa;2015;62662820,00
-Trentino-Alto Adige;Difesa;2016;51486090,00
-Trentino-Alto Adige;Difesa;2017;51625910,00
-Trentino-Alto Adige;Difesa;2018;58750750,00
-Trentino-Alto Adige;Difesa;2019;54990730,00
-Trentino-Alto Adige;Difesa;2020;52437930,00
-Trentino-Alto Adige;Difesa;2021;54698930,00
-Trentino-Alto Adige;Sicurezza pubblica;2000;103011050,00
-Trentino-Alto Adige;Sicurezza pubblica;2001;111048330,00
-Trentino-Alto Adige;Sicurezza pubblica;2002;107117640,00
-Trentino-Alto Adige;Sicurezza pubblica;2003;121419740,00
-Trentino-Alto Adige;Sicurezza pubblica;2004;123191040,00
-Trentino-Alto Adige;Sicurezza pubblica;2005;128552380,00
-Trentino-Alto Adige;Sicurezza pubblica;2006;124375880,00
-Trentino-Alto Adige;Sicurezza pubblica;2007;120159030,00
-Trentino-Alto Adige;Sicurezza pubblica;2008;141639800,00
-Trentino-Alto Adige;Sicurezza pubblica;2009;155631720,00
-Trentino-Alto Adige;Sicurezza pubblica;2010;180382120,00
-Trentino-Alto Adige;Sicurezza pubblica;2011;198030400,00
-Trentino-Alto Adige;Sicurezza pubblica;2012;192392820,00
-Trentino-Alto Adige;Sicurezza pubblica;2013;177972020,00
-Trentino-Alto Adige;Sicurezza pubblica;2014;153886690,00
-Trentino-Alto Adige;Sicurezza pubblica;2015;156274790,00
-Trentino-Alto Adige;Sicurezza pubblica;2016;145072690,00
-Trentino-Alto Adige;Sicurezza pubblica;2017;147834840,00
-Trentino-Alto Adige;Sicurezza pubblica;2018;151498010,00
-Trentino-Alto Adige;Sicurezza pubblica;2019;168308190,00
-Trentino-Alto Adige;Sicurezza pubblica;2020;175772710,00
-Trentino-Alto Adige;Sicurezza pubblica;2021;171653340,00
-Trentino-Alto Adige;Giustizia;2000;25966490,00
-Trentino-Alto Adige;Giustizia;2001;22341670,00
-Trentino-Alto Adige;Giustizia;2002;29530320,00
-Trentino-Alto Adige;Giustizia;2003;33170350,00
-Trentino-Alto Adige;Giustizia;2004;37290160,00
-Trentino-Alto Adige;Giustizia;2005;43261270,00
-Trentino-Alto Adige;Giustizia;2006;45294610,00
-Trentino-Alto Adige;Giustizia;2007;34434660,00
-Trentino-Alto Adige;Giustizia;2008;49641750,00
-Trentino-Alto Adige;Giustizia;2009;53077000,00
-Trentino-Alto Adige;Giustizia;2010;48218190,00
-Trentino-Alto Adige;Giustizia;2011;47924330,00
-Trentino-Alto Adige;Giustizia;2012;46441840,00
-Trentino-Alto Adige;Giustizia;2013;50425800,00
-Trentino-Alto Adige;Giustizia;2014;45765960,00
-Trentino-Alto Adige;Giustizia;2015;46165450,00
-Trentino-Alto Adige;Giustizia;2016;44373090,00
-Trentino-Alto Adige;Giustizia;2017;43410350,00
-Trentino-Alto Adige;Giustizia;2018;45928530,00
-Trentino-Alto Adige;Giustizia;2019;48836050,00
-Trentino-Alto Adige;Giustizia;2020;47645570,00
-Trentino-Alto Adige;Giustizia;2021;49441890,00
-Trentino-Alto Adige;Istruzione;2000;494480440,00
-Trentino-Alto Adige;Istruzione;2001;594884960,00
-Trentino-Alto Adige;Istruzione;2002;585325640,00
-Trentino-Alto Adige;Istruzione;2003;718313950,00
-Trentino-Alto Adige;Istruzione;2004;669826670,00
-Trentino-Alto Adige;Istruzione;2005;700168660,00
-Trentino-Alto Adige;Istruzione;2006;712889070,00
-Trentino-Alto Adige;Istruzione;2007;740367140,00
-Trentino-Alto Adige;Istruzione;2008;763030360,00
-Trentino-Alto Adige;Istruzione;2009;859768700,00
-Trentino-Alto Adige;Istruzione;2010;859322970,00
-Trentino-Alto Adige;Istruzione;2011;852154960,00
-Trentino-Alto Adige;Istruzione;2012;823531470,00
-Trentino-Alto Adige;Istruzione;2013;791190990,00
-Trentino-Alto Adige;Istruzione;2014;741364620,00
-Trentino-Alto Adige;Istruzione;2015;751277900,00
-Trentino-Alto Adige;Istruzione;2016;772165330,00
-Trentino-Alto Adige;Istruzione;2017;745336480,00
-Trentino-Alto Adige;Istruzione;2018;779198780,00
-Trentino-Alto Adige;Istruzione;2019;715180350,00
-Trentino-Alto Adige;Istruzione;2020;784733320,00
-Trentino-Alto Adige;Istruzione;2021;847678170,00
-Trentino-Alto Adige;Formazione;2000;61721870,00
-Trentino-Alto Adige;Formazione;2001;53492460,00
-Trentino-Alto Adige;Formazione;2002;67388850,00
-Trentino-Alto Adige;Formazione;2003;64627310,00
-Trentino-Alto Adige;Formazione;2004;79812210,00
-Trentino-Alto Adige;Formazione;2005;98838240,00
-Trentino-Alto Adige;Formazione;2006;96149890,00
-Trentino-Alto Adige;Formazione;2007;96259960,00
-Trentino-Alto Adige;Formazione;2008;85453030,00
-Trentino-Alto Adige;Formazione;2009;96639520,00
-Trentino-Alto Adige;Formazione;2010;95344830,00
-Trentino-Alto Adige;Formazione;2011;81727470,00
-Trentino-Alto Adige;Formazione;2012;85563740,00
-Trentino-Alto Adige;Formazione;2013;91510640,00
-Trentino-Alto Adige;Formazione;2014;73079760,00
-Trentino-Alto Adige;Formazione;2015;66258220,00
-Trentino-Alto Adige;Formazione;2016;68128060,00
-Trentino-Alto Adige;Formazione;2017;66977390,00
-Trentino-Alto Adige;Formazione;2018;59940600,00
-Trentino-Alto Adige;Formazione;2019;59157580,00
-Trentino-Alto Adige;Formazione;2020;53387320,00
-Trentino-Alto Adige;Formazione;2021;64606260,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2000;34102220,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2001;41598640,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2002;47913840,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2003;62494700,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2004;79592890,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2005;82030980,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2006;88444290,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2007;73464250,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2008;72673360,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2009;63664740,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2010;76416040,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2011;60991990,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2012;70210460,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2013;131826410,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2014;69623860,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2015;70804630,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2016;61012250,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2017;62471740,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2018;62836500,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2019;120766300,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2020;74561440,00
-Trentino-Alto Adige;Ricerca e Sviluppo;2021;37069100,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2000;261592740,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2001;279424540,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2002;263417260,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2003;235623630,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2004;307763680,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2005;254876070,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2006;262482650,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2007;273841460,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2008;228657590,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2009;237435900,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2010;234434130,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2011;221036480,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2012;242869500,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2013;246097630,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2014;215382870,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2015;207434070,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2016;214432870,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2017;203460800,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2018;218827930,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2019;234370640,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2020;207621100,00
-Trentino-Alto Adige;Cultura e servizi ricreativi;2021;215876680,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2000;122822990,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2001;139936840,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2002;142106220,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2003;143735270,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2004;140648120,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2005;122883720,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2006;123377660,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2007;244373830,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2008;255865170,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2009;146011080,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2010;168857150,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2011;237118350,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2012;214209610,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2013;135160900,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2014;126715270,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2015;130594540,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2016;99127360,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2017;76908720,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2018;92211140,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2019;149339440,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2020;81112330,00
-Trentino-Alto Adige;Edilizia abitativa e urbanistica;2021;75043820,00
-Trentino-Alto Adige;Sanità;2000;620746920,00
-Trentino-Alto Adige;Sanità;2001;703170280,00
-Trentino-Alto Adige;Sanità;2002;737547800,00
-Trentino-Alto Adige;Sanità;2003;904725840,00
-Trentino-Alto Adige;Sanità;2004;866838920,00
-Trentino-Alto Adige;Sanità;2005;878235930,00
-Trentino-Alto Adige;Sanità;2006;931040370,00
-Trentino-Alto Adige;Sanità;2007;1049534790,00
-Trentino-Alto Adige;Sanità;2008;1057948340,00
-Trentino-Alto Adige;Sanità;2009;1141173090,00
-Trentino-Alto Adige;Sanità;2010;1103422810,00
-Trentino-Alto Adige;Sanità;2011;1232493550,00
-Trentino-Alto Adige;Sanità;2012;1173982320,00
-Trentino-Alto Adige;Sanità;2013;1172257680,00
-Trentino-Alto Adige;Sanità;2014;1166544370,00
-Trentino-Alto Adige;Sanità;2015;1177575180,00
-Trentino-Alto Adige;Sanità;2016;1151637720,00
-Trentino-Alto Adige;Sanità;2017;1190388820,00
-Trentino-Alto Adige;Sanità;2018;1193635330,00
-Trentino-Alto Adige;Sanità;2019;1191428110,00
-Trentino-Alto Adige;Sanità;2020;1300421240,00
-Trentino-Alto Adige;Sanità;2021;1345785420,00
-Trentino-Alto Adige;Interventi in campo sociale;2000;467558130,00
-Trentino-Alto Adige;Interventi in campo sociale;2001;514196440,00
-Trentino-Alto Adige;Interventi in campo sociale;2002;560483610,00
-Trentino-Alto Adige;Interventi in campo sociale;2003;580799590,00
-Trentino-Alto Adige;Interventi in campo sociale;2004;641549960,00
-Trentino-Alto Adige;Interventi in campo sociale;2005;656815850,00
-Trentino-Alto Adige;Interventi in campo sociale;2006;679395760,00
-Trentino-Alto Adige;Interventi in campo sociale;2007;664006040,00
-Trentino-Alto Adige;Interventi in campo sociale;2008;682614290,00
-Trentino-Alto Adige;Interventi in campo sociale;2009;755019880,00
-Trentino-Alto Adige;Interventi in campo sociale;2010;791820150,00
-Trentino-Alto Adige;Interventi in campo sociale;2011;750398520,00
-Trentino-Alto Adige;Interventi in campo sociale;2012;601755330,00
-Trentino-Alto Adige;Interventi in campo sociale;2013;582224830,00
-Trentino-Alto Adige;Interventi in campo sociale;2014;561703410,00
-Trentino-Alto Adige;Interventi in campo sociale;2015;641313860,00
-Trentino-Alto Adige;Interventi in campo sociale;2016;605614540,00
-Trentino-Alto Adige;Interventi in campo sociale;2017;566182330,00
-Trentino-Alto Adige;Interventi in campo sociale;2018;594222880,00
-Trentino-Alto Adige;Interventi in campo sociale;2019;609184430,00
-Trentino-Alto Adige;Interventi in campo sociale;2020;632796610,00
-Trentino-Alto Adige;Interventi in campo sociale;2021;688739860,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2000;91654070,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2001;128200520,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2002;125294610,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2003;170787700,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2004;197202600,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2005;183262360,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2006;157214100,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2007;164144890,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2008;157687890,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2009;213085540,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2010;208706200,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2011;159731670,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2012;155362670,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2013;139286720,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2014;141867570,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2015;150169700,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2016;163188730,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2017;145134040,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2018;135951040,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2019;137386810,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2020;130938430,00
-Trentino-Alto Adige;Servizio Idrico Integrato;2021;160798430,00
-Trentino-Alto Adige;Ambiente;2000;105814350,00
-Trentino-Alto Adige;Ambiente;2001;177143980,00
-Trentino-Alto Adige;Ambiente;2002;187407580,00
-Trentino-Alto Adige;Ambiente;2003;204055210,00
-Trentino-Alto Adige;Ambiente;2004;287562930,00
-Trentino-Alto Adige;Ambiente;2005;173922820,00
-Trentino-Alto Adige;Ambiente;2006;215137640,00
-Trentino-Alto Adige;Ambiente;2007;220413400,00
-Trentino-Alto Adige;Ambiente;2008;176096620,00
-Trentino-Alto Adige;Ambiente;2009;189249390,00
-Trentino-Alto Adige;Ambiente;2010;190656700,00
-Trentino-Alto Adige;Ambiente;2011;193657320,00
-Trentino-Alto Adige;Ambiente;2012;198395190,00
-Trentino-Alto Adige;Ambiente;2013;202171980,00
-Trentino-Alto Adige;Ambiente;2014;190383430,00
-Trentino-Alto Adige;Ambiente;2015;202294690,00
-Trentino-Alto Adige;Ambiente;2016;210863520,00
-Trentino-Alto Adige;Ambiente;2017;143360470,00
-Trentino-Alto Adige;Ambiente;2018;138934940,00
-Trentino-Alto Adige;Ambiente;2019;178989210,00
-Trentino-Alto Adige;Ambiente;2020;145755610,00
-Trentino-Alto Adige;Ambiente;2021;152796440,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2000;79050750,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2001;51740890,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2002;54393880,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2003;56071790,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2004;69600890,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2005;50463810,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2006;50267570,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2007;52760780,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2008;68857540,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2009;100586440,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2010;148004550,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2011;128196510,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2012;112181010,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2013;74766410,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2014;50693030,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2015;49832520,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2016;62277080,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2017;61220880,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2018;54299610,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2019;55360230,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2020;85287320,00
-Trentino-Alto Adige;Smaltimento dei Rifiuti;2021;117030040,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2000;12507320,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2001;10449050,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2002;13344930,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2003;13421230,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2004;14410350,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2005;12918050,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2006;11779640,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2007;13851610,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2008;12110040,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2009;14031400,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2010;13821170,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2011;16527330,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2012;14155120,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2013;12618650,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2014;11262310,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2015;11096960,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2016;10868610,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2017;11099340,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2018;9115520,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2019;11897900,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2020;12481800,00
-Trentino-Alto Adige;Altri interventi igenico sanitari;2021;11440630,00
-Trentino-Alto Adige;Lavoro;2000;76724960,00
-Trentino-Alto Adige;Lavoro;2001;93192530,00
-Trentino-Alto Adige;Lavoro;2002;139279860,00
-Trentino-Alto Adige;Lavoro;2003;138568330,00
-Trentino-Alto Adige;Lavoro;2004;148234980,00
-Trentino-Alto Adige;Lavoro;2005;147974550,00
-Trentino-Alto Adige;Lavoro;2006;149799280,00
-Trentino-Alto Adige;Lavoro;2007;185081960,00
-Trentino-Alto Adige;Lavoro;2008;209419030,00
-Trentino-Alto Adige;Lavoro;2009;265838280,00
-Trentino-Alto Adige;Lavoro;2010;299222110,00
-Trentino-Alto Adige;Lavoro;2011;302137430,00
-Trentino-Alto Adige;Lavoro;2012;327679310,00
-Trentino-Alto Adige;Lavoro;2013;331090290,00
-Trentino-Alto Adige;Lavoro;2014;324047980,00
-Trentino-Alto Adige;Lavoro;2015;363966590,00
-Trentino-Alto Adige;Lavoro;2016;409122760,00
-Trentino-Alto Adige;Lavoro;2017;375183520,00
-Trentino-Alto Adige;Lavoro;2018;354717240,00
-Trentino-Alto Adige;Lavoro;2019;321810760,00
-Trentino-Alto Adige;Lavoro;2020;461882690,00
-Trentino-Alto Adige;Lavoro;2021;469361560,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2000;1661374690,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2001;1646030230,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2002;1791810600,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2003;1854219390,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2004;1901113180,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2005;2000245710,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2006;2091391820,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2007;2182766560,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2008;2257362090,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2009;2457302520,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2010;2459490070,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2011;2546277780,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2012;2510937210,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2013;2568346510,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2014;2574811200,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2015;2655281940,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2016;2684180630,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2017;2749967420,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2018;2861048630,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2019;2998269730,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2020;3061248050,00
-Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2021;3153749720,00
-Trentino-Alto Adige;Altri trasporti;2000;277803460,00
-Trentino-Alto Adige;Altri trasporti;2001;383527560,00
-Trentino-Alto Adige;Altri trasporti;2002;266601340,00
-Trentino-Alto Adige;Altri trasporti;2003;363168680,00
-Trentino-Alto Adige;Altri trasporti;2004;497330270,00
-Trentino-Alto Adige;Altri trasporti;2005;409522120,00
-Trentino-Alto Adige;Altri trasporti;2006;405638610,00
-Trentino-Alto Adige;Altri trasporti;2007;316166300,00
-Trentino-Alto Adige;Altri trasporti;2008;363589480,00
-Trentino-Alto Adige;Altri trasporti;2009;397051230,00
-Trentino-Alto Adige;Altri trasporti;2010;353610800,00
-Trentino-Alto Adige;Altri trasporti;2011;354341970,00
-Trentino-Alto Adige;Altri trasporti;2012;356616970,00
-Trentino-Alto Adige;Altri trasporti;2013;361376370,00
-Trentino-Alto Adige;Altri trasporti;2014;368665840,00
-Trentino-Alto Adige;Altri trasporti;2015;329175330,00
-Trentino-Alto Adige;Altri trasporti;2016;298251190,00
-Trentino-Alto Adige;Altri trasporti;2017;302366510,00
-Trentino-Alto Adige;Altri trasporti;2018;269912170,00
-Trentino-Alto Adige;Altri trasporti;2019;253739270,00
-Trentino-Alto Adige;Altri trasporti;2020;226117800,00
-Trentino-Alto Adige;Altri trasporti;2021;257187080,00
-Trentino-Alto Adige;Viabilità;2000;275002940,00
-Trentino-Alto Adige;Viabilità;2001;340261030,00
-Trentino-Alto Adige;Viabilità;2002;389782640,00
-Trentino-Alto Adige;Viabilità;2003;409197690,00
-Trentino-Alto Adige;Viabilità;2004;499320940,00
-Trentino-Alto Adige;Viabilità;2005;415850330,00
-Trentino-Alto Adige;Viabilità;2006;514508340,00
-Trentino-Alto Adige;Viabilità;2007;498460230,00
-Trentino-Alto Adige;Viabilità;2008;532450820,00
-Trentino-Alto Adige;Viabilità;2009;470887570,00
-Trentino-Alto Adige;Viabilità;2010;382333860,00
-Trentino-Alto Adige;Viabilità;2011;417399660,00
-Trentino-Alto Adige;Viabilità;2012;400545020,00
-Trentino-Alto Adige;Viabilità;2013;374345960,00
-Trentino-Alto Adige;Viabilità;2014;362778580,00
-Trentino-Alto Adige;Viabilità;2015;459998450,00
-Trentino-Alto Adige;Viabilità;2016;331797630,00
-Trentino-Alto Adige;Viabilità;2017;339056210,00
-Trentino-Alto Adige;Viabilità;2018;364273510,00
-Trentino-Alto Adige;Viabilità;2019;407353320,00
-Trentino-Alto Adige;Viabilità;2020;388682330,00
-Trentino-Alto Adige;Viabilità;2021;376687040,00
-Trentino-Alto Adige;Telecomunicazioni;2000;126929620,00
-Trentino-Alto Adige;Telecomunicazioni;2001;94521630,00
-Trentino-Alto Adige;Telecomunicazioni;2002;102897540,00
-Trentino-Alto Adige;Telecomunicazioni;2003;112093190,00
-Trentino-Alto Adige;Telecomunicazioni;2004;106259150,00
-Trentino-Alto Adige;Telecomunicazioni;2005;125780770,00
-Trentino-Alto Adige;Telecomunicazioni;2006;153275500,00
-Trentino-Alto Adige;Telecomunicazioni;2007;130370000,00
-Trentino-Alto Adige;Telecomunicazioni;2008;131289220,00
-Trentino-Alto Adige;Telecomunicazioni;2009;154605810,00
-Trentino-Alto Adige;Telecomunicazioni;2010;156589270,00
-Trentino-Alto Adige;Telecomunicazioni;2011;159198720,00
-Trentino-Alto Adige;Telecomunicazioni;2012;179886350,00
-Trentino-Alto Adige;Telecomunicazioni;2013;240487270,00
-Trentino-Alto Adige;Telecomunicazioni;2014;146249140,00
-Trentino-Alto Adige;Telecomunicazioni;2015;139381840,00
-Trentino-Alto Adige;Telecomunicazioni;2016;115316450,00
-Trentino-Alto Adige;Telecomunicazioni;2017;104300270,00
-Trentino-Alto Adige;Telecomunicazioni;2018;93915600,00
-Trentino-Alto Adige;Telecomunicazioni;2019;129502730,00
-Trentino-Alto Adige;Telecomunicazioni;2020;160781390,00
-Trentino-Alto Adige;Telecomunicazioni;2021;137145060,00
-Trentino-Alto Adige;Agricoltura;2000;110898080,00
-Trentino-Alto Adige;Agricoltura;2001;97968950,00
-Trentino-Alto Adige;Agricoltura;2002;92080740,00
-Trentino-Alto Adige;Agricoltura;2003;91072300,00
-Trentino-Alto Adige;Agricoltura;2004;221190200,00
-Trentino-Alto Adige;Agricoltura;2005;108180590,00
-Trentino-Alto Adige;Agricoltura;2006;104978560,00
-Trentino-Alto Adige;Agricoltura;2007;109933470,00
-Trentino-Alto Adige;Agricoltura;2008;124417330,00
-Trentino-Alto Adige;Agricoltura;2009;141036180,00
-Trentino-Alto Adige;Agricoltura;2010;118926780,00
-Trentino-Alto Adige;Agricoltura;2011;101468040,00
-Trentino-Alto Adige;Agricoltura;2012;95357980,00
-Trentino-Alto Adige;Agricoltura;2013;124223380,00
-Trentino-Alto Adige;Agricoltura;2014;93449720,00
-Trentino-Alto Adige;Agricoltura;2015;85993700,00
-Trentino-Alto Adige;Agricoltura;2016;78715480,00
-Trentino-Alto Adige;Agricoltura;2017;63251650,00
-Trentino-Alto Adige;Agricoltura;2018;58059050,00
-Trentino-Alto Adige;Agricoltura;2019;49482600,00
-Trentino-Alto Adige;Agricoltura;2020;59351210,00
-Trentino-Alto Adige;Agricoltura;2021;57229320,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2000;0774440,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2001;0776010,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2002;1075830,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2003;1227380,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2004;4669200,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2005;1035830,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2006;1777130,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2007;1738770,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2008;1819880,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2009;1632510,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2010;2560030,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2011;1902970,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2012;1739380,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2013;2009580,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2014;1764800,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2015;1392740,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2016;1457620,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2017;3333230,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2018;2996880,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2019;3559350,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2020;3251120,00
-Trentino-Alto Adige;Pesca marittima e Acquicoltura;2021;3323250,00
-Trentino-Alto Adige;Turismo;2000;108196140,00
-Trentino-Alto Adige;Turismo;2001;67422960,00
-Trentino-Alto Adige;Turismo;2002;73355840,00
-Trentino-Alto Adige;Turismo;2003;92996420,00
-Trentino-Alto Adige;Turismo;2004;116626410,00
-Trentino-Alto Adige;Turismo;2005;119184640,00
-Trentino-Alto Adige;Turismo;2006;144730330,00
-Trentino-Alto Adige;Turismo;2007;99836630,00
-Trentino-Alto Adige;Turismo;2008;109625470,00
-Trentino-Alto Adige;Turismo;2009;101932720,00
-Trentino-Alto Adige;Turismo;2010;106116100,00
-Trentino-Alto Adige;Turismo;2011;102004650,00
-Trentino-Alto Adige;Turismo;2012;83169780,00
-Trentino-Alto Adige;Turismo;2013;89204350,00
-Trentino-Alto Adige;Turismo;2014;72708270,00
-Trentino-Alto Adige;Turismo;2015;73006490,00
-Trentino-Alto Adige;Turismo;2016;93721140,00
-Trentino-Alto Adige;Turismo;2017;97666290,00
-Trentino-Alto Adige;Turismo;2018;97080010,00
-Trentino-Alto Adige;Turismo;2019;103762190,00
-Trentino-Alto Adige;Turismo;2020;143295520,00
-Trentino-Alto Adige;Turismo;2021;273698720,00
-Trentino-Alto Adige;Commercio;2000;21988200,00
-Trentino-Alto Adige;Commercio;2001;28535530,00
-Trentino-Alto Adige;Commercio;2002;40869140,00
-Trentino-Alto Adige;Commercio;2003;67856210,00
-Trentino-Alto Adige;Commercio;2004;51401330,00
-Trentino-Alto Adige;Commercio;2005;39835450,00
-Trentino-Alto Adige;Commercio;2006;51318090,00
-Trentino-Alto Adige;Commercio;2007;24367850,00
-Trentino-Alto Adige;Commercio;2008;45794320,00
-Trentino-Alto Adige;Commercio;2009;38824820,00
-Trentino-Alto Adige;Commercio;2010;37942100,00
-Trentino-Alto Adige;Commercio;2011;38601420,00
-Trentino-Alto Adige;Commercio;2012;39145890,00
-Trentino-Alto Adige;Commercio;2013;34681330,00
-Trentino-Alto Adige;Commercio;2014;29958580,00
-Trentino-Alto Adige;Commercio;2015;35138840,00
-Trentino-Alto Adige;Commercio;2016;24156730,00
-Trentino-Alto Adige;Commercio;2017;23205160,00
-Trentino-Alto Adige;Commercio;2018;24812900,00
-Trentino-Alto Adige;Commercio;2019;22292250,00
-Trentino-Alto Adige;Commercio;2020;75778760,00
-Trentino-Alto Adige;Commercio;2021;109217660,00
-Trentino-Alto Adige;Industria e Artigianato;2000;66925940,00
-Trentino-Alto Adige;Industria e Artigianato;2001;212981600,00
-Trentino-Alto Adige;Industria e Artigianato;2002;192293910,00
-Trentino-Alto Adige;Industria e Artigianato;2003;193651670,00
-Trentino-Alto Adige;Industria e Artigianato;2004;112226040,00
-Trentino-Alto Adige;Industria e Artigianato;2005;114366120,00
-Trentino-Alto Adige;Industria e Artigianato;2006;123248940,00
-Trentino-Alto Adige;Industria e Artigianato;2007;84918450,00
-Trentino-Alto Adige;Industria e Artigianato;2008;45263060,00
-Trentino-Alto Adige;Industria e Artigianato;2009;29900540,00
-Trentino-Alto Adige;Industria e Artigianato;2010;94161110,00
-Trentino-Alto Adige;Industria e Artigianato;2011;70323580,00
-Trentino-Alto Adige;Industria e Artigianato;2012;58140340,00
-Trentino-Alto Adige;Industria e Artigianato;2013;35269540,00
-Trentino-Alto Adige;Industria e Artigianato;2014;34309910,00
-Trentino-Alto Adige;Industria e Artigianato;2015;59200880,00
-Trentino-Alto Adige;Industria e Artigianato;2016;85764570,00
-Trentino-Alto Adige;Industria e Artigianato;2017;87556650,00
-Trentino-Alto Adige;Industria e Artigianato;2018;113369160,00
-Trentino-Alto Adige;Industria e Artigianato;2019;97307620,00
-Trentino-Alto Adige;Industria e Artigianato;2020;183999960,00
-Trentino-Alto Adige;Industria e Artigianato;2021;382511390,00
-Trentino-Alto Adige;Energia;2000;441616410,00
-Trentino-Alto Adige;Energia;2001;487646550,00
-Trentino-Alto Adige;Energia;2002;531064370,00
-Trentino-Alto Adige;Energia;2003;402263580,00
-Trentino-Alto Adige;Energia;2004;495291960,00
-Trentino-Alto Adige;Energia;2005;561290730,00
-Trentino-Alto Adige;Energia;2006;650066560,00
-Trentino-Alto Adige;Energia;2007;695788360,00
-Trentino-Alto Adige;Energia;2008;863219910,00
-Trentino-Alto Adige;Energia;2009;1454471520,00
-Trentino-Alto Adige;Energia;2010;1229713360,00
-Trentino-Alto Adige;Energia;2011;1348159810,00
-Trentino-Alto Adige;Energia;2012;1430240290,00
-Trentino-Alto Adige;Energia;2013;1582234680,00
-Trentino-Alto Adige;Energia;2014;1763900010,00
-Trentino-Alto Adige;Energia;2015;1671294400,00
-Trentino-Alto Adige;Energia;2016;1777012340,00
-Trentino-Alto Adige;Energia;2017;1584781870,00
-Trentino-Alto Adige;Energia;2018;1689930150,00
-Trentino-Alto Adige;Energia;2019;1735255980,00
-Trentino-Alto Adige;Energia;2020;1914836090,00
-Trentino-Alto Adige;Energia;2021;2713146520,00
-Trentino-Alto Adige;Altre opere pubbliche;2003;0171880,00
-Trentino-Alto Adige;Altre opere pubbliche;2004;0367730,00
-Trentino-Alto Adige;Altre opere pubbliche;2005;0389120,00
-Trentino-Alto Adige;Altre opere pubbliche;2006;0378360,00
-Trentino-Alto Adige;Altre opere pubbliche;2007;0398650,00
-Trentino-Alto Adige;Altre opere pubbliche;2008;0571890,00
-Trentino-Alto Adige;Altre opere pubbliche;2009;0516810,00
-Trentino-Alto Adige;Altre opere pubbliche;2010;0532440,00
-Trentino-Alto Adige;Altre opere pubbliche;2011;0636940,00
-Trentino-Alto Adige;Altre opere pubbliche;2012;3620640,00
-Trentino-Alto Adige;Altre opere pubbliche;2013;3995190,00
-Trentino-Alto Adige;Altre opere pubbliche;2014;3580790,00
-Trentino-Alto Adige;Altre opere pubbliche;2015;3032510,00
-Trentino-Alto Adige;Altre in campo economico;2000;222673290,00
-Trentino-Alto Adige;Altre in campo economico;2001;165616870,00
-Trentino-Alto Adige;Altre in campo economico;2002;176047070,00
-Trentino-Alto Adige;Altre in campo economico;2003;111808080,00
-Trentino-Alto Adige;Altre in campo economico;2004;168928820,00
-Trentino-Alto Adige;Altre in campo economico;2005;208238920,00
-Trentino-Alto Adige;Altre in campo economico;2006;346953490,00
-Trentino-Alto Adige;Altre in campo economico;2007;279992480,00
-Trentino-Alto Adige;Altre in campo economico;2008;340895330,00
-Trentino-Alto Adige;Altre in campo economico;2009;633263520,00
-Trentino-Alto Adige;Altre in campo economico;2010;374414960,00
-Trentino-Alto Adige;Altre in campo economico;2011;413239570,00
-Trentino-Alto Adige;Altre in campo economico;2012;449702030,00
-Trentino-Alto Adige;Altre in campo economico;2013;396317550,00
-Trentino-Alto Adige;Altre in campo economico;2014;468091820,00
-Trentino-Alto Adige;Altre in campo economico;2015;378018130,00
-Trentino-Alto Adige;Altre in campo economico;2016;218667060,00
-Trentino-Alto Adige;Altre in campo economico;2017;141898530,00
-Trentino-Alto Adige;Altre in campo economico;2018;185719210,00
-Trentino-Alto Adige;Altre in campo economico;2019;155424790,00
-Trentino-Alto Adige;Altre in campo economico;2020;148689450,00
-Trentino-Alto Adige;Altre in campo economico;2021;161080230,00
-Trentino-Alto Adige;Oneri non ripartibili;2000;593727630,00
-Trentino-Alto Adige;Oneri non ripartibili;2001;512303640,00
-Trentino-Alto Adige;Oneri non ripartibili;2002;445418890,00
-Trentino-Alto Adige;Oneri non ripartibili;2003;326905930,00
-Trentino-Alto Adige;Oneri non ripartibili;2004;222269850,00
-Trentino-Alto Adige;Oneri non ripartibili;2005;393118010,00
-Trentino-Alto Adige;Oneri non ripartibili;2006;319590610,00
-Trentino-Alto Adige;Oneri non ripartibili;2007;268373180,00
-Trentino-Alto Adige;Oneri non ripartibili;2008;376964140,00
-Trentino-Alto Adige;Oneri non ripartibili;2009;307870710,00
-Trentino-Alto Adige;Oneri non ripartibili;2010;246123110,00
-Trentino-Alto Adige;Oneri non ripartibili;2011;298376120,00
-Trentino-Alto Adige;Oneri non ripartibili;2012;376731380,00
-Trentino-Alto Adige;Oneri non ripartibili;2013;668126660,00
-Trentino-Alto Adige;Oneri non ripartibili;2014;520748940,00
-Trentino-Alto Adige;Oneri non ripartibili;2015;787185270,00
-Trentino-Alto Adige;Oneri non ripartibili;2016;242462320,00
-Trentino-Alto Adige;Oneri non ripartibili;2017;328361950,00
-Trentino-Alto Adige;Oneri non ripartibili;2018;321704680,00
-Trentino-Alto Adige;Oneri non ripartibili;2019;331439340,00
-Trentino-Alto Adige;Oneri non ripartibili;2020;591739210,00
-Trentino-Alto Adige;Oneri non ripartibili;2021;1647105880,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2000;738421180,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2001;832111820,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2002;785886080,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2003;871029710,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2004;945611030,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2005;1027038560,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2006;980315770,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2007;955868110,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2008;993012390,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2009;1044533770,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2010;1062260430,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2011;935402030,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2012;886186010,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2013;1053625920,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2014;1016248200,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2015;2750850470,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2016;1670123700,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2017;1306422750,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2018;1927047370,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2019;1864902280,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2020;1871967830,00
-22 - Provincia Autonoma di Bolzano;Amministrazione Generale;2021;2128296410,00
-22 - Provincia Autonoma di Bolzano;Difesa;2000;52903480,00
-22 - Provincia Autonoma di Bolzano;Difesa;2001;83203660,00
-22 - Provincia Autonoma di Bolzano;Difesa;2002;117063920,00
-22 - Provincia Autonoma di Bolzano;Difesa;2003;57306250,00
-22 - Provincia Autonoma di Bolzano;Difesa;2004;74115860,00
-22 - Provincia Autonoma di Bolzano;Difesa;2005;76445210,00
-22 - Provincia Autonoma di Bolzano;Difesa;2006;62712970,00
-22 - Provincia Autonoma di Bolzano;Difesa;2007;60391900,00
-22 - Provincia Autonoma di Bolzano;Difesa;2008;180960710,00
-22 - Provincia Autonoma di Bolzano;Difesa;2009;182040650,00
-22 - Provincia Autonoma di Bolzano;Difesa;2010;141272250,00
-22 - Provincia Autonoma di Bolzano;Difesa;2011;253538400,00
-22 - Provincia Autonoma di Bolzano;Difesa;2012;249676250,00
-22 - Provincia Autonoma di Bolzano;Difesa;2013;229824690,00
-22 - Provincia Autonoma di Bolzano;Difesa;2014;251432130,00
-22 - Provincia Autonoma di Bolzano;Difesa;2015;176920250,00
-22 - Provincia Autonoma di Bolzano;Difesa;2016;170888430,00
-22 - Provincia Autonoma di Bolzano;Difesa;2017;192966540,00
-22 - Provincia Autonoma di Bolzano;Difesa;2018;174414960,00
-22 - Provincia Autonoma di Bolzano;Difesa;2019;181242330,00
-22 - Provincia Autonoma di Bolzano;Difesa;2020;184737250,00
-22 - Provincia Autonoma di Bolzano;Difesa;2021;194720420,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2000;95207590,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2001;108499040,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2002;89906530,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2003;91271420,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2004;103583590,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2005;106189350,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2006;108222140,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2007;103449350,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2008;133895100,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2009;146354520,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2010;155246330,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2011;173891330,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2012;168528160,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2013;143778220,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2014;165409080,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2015;160151820,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2016;151202230,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2017;230760560,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2018;244588190,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2019;263638690,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2020;313254990,00
-22 - Provincia Autonoma di Bolzano;Sicurezza pubblica;2021;279430780,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2000;14171570,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2001;11016800,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2002;18101320,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2003;18603630,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2004;20605020,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2005;20513220,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2006;23233720,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2007;21649870,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2008;21528540,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2009;21582500,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2010;22717040,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2011;22818910,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2012;22264860,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2013;22855900,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2014;20954570,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2015;22920950,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2016;19160880,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2017;20714640,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2018;24797590,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2019;25579440,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2020;27000390,00
-22 - Provincia Autonoma di Bolzano;Giustizia;2021;27783280,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2000;613571400,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2001;670019340,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2002;645497120,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2003;644041640,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2004;685718490,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2005;683709610,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2006;732915740,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2007;770687270,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2008;823694820,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2009;825526100,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2010;744074080,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2011;744722620,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2012;720593610,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2013;848695890,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2014;908195800,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2015;922013420,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2016;605584260,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2017;660054370,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2018;861461460,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2019;887922190,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2020;892132660,00
-22 - Provincia Autonoma di Bolzano;Istruzione;2021;902935300,00
-22 - Provincia Autonoma di Bolzano;Formazione;2000;95031750,00
-22 - Provincia Autonoma di Bolzano;Formazione;2001;103136250,00
-22 - Provincia Autonoma di Bolzano;Formazione;2002;105259000,00
-22 - Provincia Autonoma di Bolzano;Formazione;2003;103095000,00
-22 - Provincia Autonoma di Bolzano;Formazione;2004;110343000,00
-22 - Provincia Autonoma di Bolzano;Formazione;2005;114272070,00
-22 - Provincia Autonoma di Bolzano;Formazione;2006;116580300,00
-22 - Provincia Autonoma di Bolzano;Formazione;2007;110573610,00
-22 - Provincia Autonoma di Bolzano;Formazione;2008;118066710,00
-22 - Provincia Autonoma di Bolzano;Formazione;2009;112815370,00
-22 - Provincia Autonoma di Bolzano;Formazione;2010;104597780,00
-22 - Provincia Autonoma di Bolzano;Formazione;2011;96267940,00
-22 - Provincia Autonoma di Bolzano;Formazione;2012;86434430,00
-22 - Provincia Autonoma di Bolzano;Formazione;2013;48585950,00
-22 - Provincia Autonoma di Bolzano;Formazione;2014;50417280,00
-22 - Provincia Autonoma di Bolzano;Formazione;2015;48051560,00
-22 - Provincia Autonoma di Bolzano;Formazione;2016;164752940,00
-22 - Provincia Autonoma di Bolzano;Formazione;2017;161195660,00
-22 - Provincia Autonoma di Bolzano;Formazione;2018;96566810,00
-22 - Provincia Autonoma di Bolzano;Formazione;2019;107264710,00
-22 - Provincia Autonoma di Bolzano;Formazione;2020;114705750,00
-22 - Provincia Autonoma di Bolzano;Formazione;2021;114618550,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2000;7880790,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2001;8213020,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2002;16011940,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2003;16481770,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2004;17843670,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2005;20214660,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2006;21395680,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2007;23771600,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2008;32800510,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2009;32470470,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2010;31554560,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2011;36345380,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2012;37344300,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2013;38328530,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2014;42965700,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2015;55239720,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2016;58756930,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2017;63257490,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2018;78033500,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2019;83957770,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2020;98043840,00
-22 - Provincia Autonoma di Bolzano;Ricerca e Sviluppo;2021;94657200,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2000;331058510,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2001;338166580,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2002;326311520,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2003;249080650,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2004;311301930,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2005;315878250,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2006;313551440,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2007;312602040,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2008;278011010,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2009;299541540,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2010;294891640,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2011;287441840,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2012;277388010,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2013;267172430,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2014;251849820,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2015;237494820,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2016;250015990,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2017;269889480,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2018;288952120,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2019;283870660,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2020;265692890,00
-22 - Provincia Autonoma di Bolzano;Cultura e servizi ricreativi;2021;262002040,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2000;174977650,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2001;164859720,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2002;242621740,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2003;202511300,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2004;202586690,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2005;220716990,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2006;224489140,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2007;229390360,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2008;245288960,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2009;259358770,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2010;205031720,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2011;258108840,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2012;191777630,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2013;241338050,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2014;128580370,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2015;209401470,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2016;237272890,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2017;228180110,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2018;213725160,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2019;342253980,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2020;237735620,00
-22 - Provincia Autonoma di Bolzano;Edilizia abitativa e urbanistica;2021;213082070,00
-22 - Provincia Autonoma di Bolzano;Sanità;2000;713786080,00
-22 - Provincia Autonoma di Bolzano;Sanità;2001;768613240,00
-22 - Provincia Autonoma di Bolzano;Sanità;2002;802117960,00
-22 - Provincia Autonoma di Bolzano;Sanità;2003;906975530,00
-22 - Provincia Autonoma di Bolzano;Sanità;2004;991332900,00
-22 - Provincia Autonoma di Bolzano;Sanità;2005;981448360,00
-22 - Provincia Autonoma di Bolzano;Sanità;2006;1079879130,00
-22 - Provincia Autonoma di Bolzano;Sanità;2007;985958160,00
-22 - Provincia Autonoma di Bolzano;Sanità;2008;1087999940,00
-22 - Provincia Autonoma di Bolzano;Sanità;2009;1063455710,00
-22 - Provincia Autonoma di Bolzano;Sanità;2010;1230759050,00
-22 - Provincia Autonoma di Bolzano;Sanità;2011;1135771760,00
-22 - Provincia Autonoma di Bolzano;Sanità;2012;1104864670,00
-22 - Provincia Autonoma di Bolzano;Sanità;2013;1060615170,00
-22 - Provincia Autonoma di Bolzano;Sanità;2014;1091426480,00
-22 - Provincia Autonoma di Bolzano;Sanità;2015;1092764830,00
-22 - Provincia Autonoma di Bolzano;Sanità;2016;1082979460,00
-22 - Provincia Autonoma di Bolzano;Sanità;2017;1127016350,00
-22 - Provincia Autonoma di Bolzano;Sanità;2018;1168704680,00
-22 - Provincia Autonoma di Bolzano;Sanità;2019;1188791460,00
-22 - Provincia Autonoma di Bolzano;Sanità;2020;1229093160,00
-22 - Provincia Autonoma di Bolzano;Sanità;2021;1400392820,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2000;459913750,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2001;461448880,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2002;553835600,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2003;565679180,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2004;614980300,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2005;626507660,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2006;668725330,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2007;719601880,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2008;716634570,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2009;762586060,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2010;731504110,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2011;988924520,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2012;1120925690,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2013;848192470,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2014;886738830,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2015;871761020,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2016;963796820,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2017;989488080,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2018;1010610500,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2019;1342075230,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2020;1553538760,00
-22 - Provincia Autonoma di Bolzano;Interventi in campo sociale;2021;1227739440,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2000;62193320,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2001;124252870,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2002;124603870,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2003;110818510,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2004;132302720,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2005;155126060,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2006;134827510,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2007;131397260,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2008;122864030,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2009;121525400,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2010;121974340,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2011;126891910,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2012;126384610,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2013;125928400,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2014;120867710,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2015;123707300,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2016;137963720,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2017;118167160,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2018;136420890,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2019;140223370,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2020;145715720,00
-22 - Provincia Autonoma di Bolzano;Servizio Idrico Integrato;2021;141461540,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2000;39242800,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2001;90318240,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2002;98289250,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2003;104903860,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2004;106932200,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2005;88844020,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2006;86447730,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2007;101795420,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2008;80914570,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2009;55066610,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2010;68148230,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2011;69238050,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2012;66501190,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2013;64227060,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2014;67800260,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2015;74080440,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2016;104186400,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2017;104553140,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2018;126526440,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2019;159172560,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2020;146571700,00
-22 - Provincia Autonoma di Bolzano;Ambiente;2021;137003820,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2000;110553550,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2001;59435530,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2002;62599840,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2003;65655200,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2004;56509120,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2005;73181300,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2006;63426660,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2007;81046610,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2008;72035660,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2009;68748770,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2010;84294780,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2011;78041360,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2012;80967950,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2013;80737040,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2014;78658290,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2015;85960190,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2016;88181730,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2017;81355300,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2018;90173100,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2019;98716250,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2020;115427130,00
-22 - Provincia Autonoma di Bolzano;Smaltimento dei Rifiuti;2021;113162970,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2000;13698600,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2001;10989630,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2002;10335610,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2003;8611060,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2004;12866410,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2005;13042800,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2006;10249270,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2007;7709850,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2008;9598140,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2009;9361240,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2010;8073960,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2011;8737380,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2012;7951210,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2013;7976610,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2014;8817880,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2015;7588250,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2016;9783540,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2017;10890810,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2018;10110180,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2019;11193390,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2020;9791010,00
-22 - Provincia Autonoma di Bolzano;Altri interventi igenico sanitari;2021;9085000,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2000;41880210,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2001;61567340,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2002;107115280,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2003;107813350,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2004;118471270,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2005;114943610,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2006;121986800,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2007;160634010,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2008;172445370,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2009;227628010,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2010;237564090,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2011;236689730,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2012;261372680,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2013;277206760,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2014;257334570,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2015;291168460,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2016;351973260,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2017;335985400,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2018;306435580,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2019;265184980,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2020;411698480,00
-22 - Provincia Autonoma di Bolzano;Lavoro;2021;411669180,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2000;1427368300,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2001;1456731800,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2002;1606706400,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2003;1648876960,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2004;1696773170,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2005;1800074050,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2006;1889225670,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2007;1987607300,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2008;2054025170,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2009;2277166930,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2010;2273968470,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2011;2363221930,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2012;2313362090,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2013;2375048290,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2014;2389473770,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2015;2478391610,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2016;2502587640,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2017;2586607120,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2018;2700076950,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2019;2830433900,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2020;2887668350,00
-22 - Provincia Autonoma di Bolzano;Previdenza e Integrazioni Salariali;2021;2988325090,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2000;260577790,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2001;356193100,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2002;291853610,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2003;321772410,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2004;426107090,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2005;401141750,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2006;356604350,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2007;363892760,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2008;486148200,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2009;414292330,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2010;444753360,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2011;370271700,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2012;397305640,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2013;447121800,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2014;406280830,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2015;427570430,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2016;360034400,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2017;428635960,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2018;386700550,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2019;358118330,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2020;418157280,00
-22 - Provincia Autonoma di Bolzano;Altri trasporti;2021;488890800,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2000;380047950,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2001;383991840,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2002;423317850,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2003;368518750,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2004;395717590,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2005;375843080,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2006;419409100,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2007;413600320,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2008;433726380,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2009;418870660,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2010;394527410,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2011;405129310,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2012;372771580,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2013;376843840,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2014;378694710,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2015;445819840,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2016;397699010,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2017;442106810,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2018;438756510,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2019;532928360,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2020;574350720,00
-22 - Provincia Autonoma di Bolzano;Viabilità;2021;559579510,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2000;49200050,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2001;80834220,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2002;82129030,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2003;93072860,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2004;107084150,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2005;117787980,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2006;131564650,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2007;117373050,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2008;124095720,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2009;140188340,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2010;135773800,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2011;126109530,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2012;140252080,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2013;127450780,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2014;134593970,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2015;147079180,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2016;139149350,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2017;139309660,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2018;152513070,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2019;202193220,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2020;225212750,00
-22 - Provincia Autonoma di Bolzano;Telecomunicazioni;2021;201821710,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2000;156487190,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2001;168771400,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2002;169236910,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2003;174201640,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2004;177432530,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2005;169065790,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2006;174105980,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2007;164407870,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2008;207428740,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2009;218584280,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2010;203056140,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2011;197187140,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2012;182138720,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2013;174786160,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2014;161197030,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2015;168910120,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2016;177491190,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2017;163127920,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2018;142907440,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2019;118130700,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2020;116801340,00
-22 - Provincia Autonoma di Bolzano;Agricoltura;2021;94696950,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2000;0016380,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2001;0045410,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2002;0195520,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2003;0207270,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2004;0272350,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2005;0367850,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2006;0387500,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2007;0523090,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2008;0457530,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2009;0247000,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2010;0450470,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2011;0332470,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2012;0223800,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2013;0258610,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2014;0259770,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2015;0102000,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2016;0170750,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2017;3027090,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2018;2664230,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2019;3346460,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2020;3054090,00
-22 - Provincia Autonoma di Bolzano;Pesca marittima e Acquicoltura;2021;3349330,00
-22 - Provincia Autonoma di Bolzano;Turismo;2000;77459450,00
-22 - Provincia Autonoma di Bolzano;Turismo;2001;56045530,00
-22 - Provincia Autonoma di Bolzano;Turismo;2002;76846720,00
-22 - Provincia Autonoma di Bolzano;Turismo;2003;72452240,00
-22 - Provincia Autonoma di Bolzano;Turismo;2004;68554150,00
-22 - Provincia Autonoma di Bolzano;Turismo;2005;91632900,00
-22 - Provincia Autonoma di Bolzano;Turismo;2006;67535400,00
-22 - Provincia Autonoma di Bolzano;Turismo;2007;69121090,00
-22 - Provincia Autonoma di Bolzano;Turismo;2008;71051970,00
-22 - Provincia Autonoma di Bolzano;Turismo;2009;75613540,00
-22 - Provincia Autonoma di Bolzano;Turismo;2010;73240190,00
-22 - Provincia Autonoma di Bolzano;Turismo;2011;79680900,00
-22 - Provincia Autonoma di Bolzano;Turismo;2012;75187390,00
-22 - Provincia Autonoma di Bolzano;Turismo;2013;69703750,00
-22 - Provincia Autonoma di Bolzano;Turismo;2014;74737190,00
-22 - Provincia Autonoma di Bolzano;Turismo;2015;64054060,00
-22 - Provincia Autonoma di Bolzano;Turismo;2016;56753690,00
-22 - Provincia Autonoma di Bolzano;Turismo;2017;52119520,00
-22 - Provincia Autonoma di Bolzano;Turismo;2018;66660000,00
-22 - Provincia Autonoma di Bolzano;Turismo;2019;70007420,00
-22 - Provincia Autonoma di Bolzano;Turismo;2020;131256780,00
-22 - Provincia Autonoma di Bolzano;Turismo;2021;455609750,00
-22 - Provincia Autonoma di Bolzano;Commercio;2000;40339100,00
-22 - Provincia Autonoma di Bolzano;Commercio;2001;35594070,00
-22 - Provincia Autonoma di Bolzano;Commercio;2002;37064890,00
-22 - Provincia Autonoma di Bolzano;Commercio;2003;36976320,00
-22 - Provincia Autonoma di Bolzano;Commercio;2004;37362830,00
-22 - Provincia Autonoma di Bolzano;Commercio;2005;40473880,00
-22 - Provincia Autonoma di Bolzano;Commercio;2006;42051480,00
-22 - Provincia Autonoma di Bolzano;Commercio;2007;50223000,00
-22 - Provincia Autonoma di Bolzano;Commercio;2008;53559520,00
-22 - Provincia Autonoma di Bolzano;Commercio;2009;51338800,00
-22 - Provincia Autonoma di Bolzano;Commercio;2010;54160860,00
-22 - Provincia Autonoma di Bolzano;Commercio;2011;54694370,00
-22 - Provincia Autonoma di Bolzano;Commercio;2012;47274730,00
-22 - Provincia Autonoma di Bolzano;Commercio;2013;53854530,00
-22 - Provincia Autonoma di Bolzano;Commercio;2014;53503260,00
-22 - Provincia Autonoma di Bolzano;Commercio;2015;48224890,00
-22 - Provincia Autonoma di Bolzano;Commercio;2016;91593960,00
-22 - Provincia Autonoma di Bolzano;Commercio;2017;82817520,00
-22 - Provincia Autonoma di Bolzano;Commercio;2018;98158240,00
-22 - Provincia Autonoma di Bolzano;Commercio;2019;84703650,00
-22 - Provincia Autonoma di Bolzano;Commercio;2020;138203230,00
-22 - Provincia Autonoma di Bolzano;Commercio;2021;169320050,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2000;103569710,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2001;213131920,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2002;186403620,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2003;195686910,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2004;118751740,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2005;96115180,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2006;114195680,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2007;100113570,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2008;68329990,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2009;68202560,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2010;60796020,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2011;66962310,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2012;40323070,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2013;44467480,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2014;39049010,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2015;34547890,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2016;189925070,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2017;242381900,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2018;283995500,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2019;304439490,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2020;173473740,00
-22 - Provincia Autonoma di Bolzano;Industria e Artigianato;2021;317619000,00
-22 - Provincia Autonoma di Bolzano;Energia;2000;271390820,00
-22 - Provincia Autonoma di Bolzano;Energia;2001;370711600,00
-22 - Provincia Autonoma di Bolzano;Energia;2002;487699630,00
-22 - Provincia Autonoma di Bolzano;Energia;2003;374547270,00
-22 - Provincia Autonoma di Bolzano;Energia;2004;467649230,00
-22 - Provincia Autonoma di Bolzano;Energia;2005;655671320,00
-22 - Provincia Autonoma di Bolzano;Energia;2006;557267560,00
-22 - Provincia Autonoma di Bolzano;Energia;2007;618812860,00
-22 - Provincia Autonoma di Bolzano;Energia;2008;832900280,00
-22 - Provincia Autonoma di Bolzano;Energia;2009;803520540,00
-22 - Provincia Autonoma di Bolzano;Energia;2010;759730650,00
-22 - Provincia Autonoma di Bolzano;Energia;2011;922802010,00
-22 - Provincia Autonoma di Bolzano;Energia;2012;1069223100,00
-22 - Provincia Autonoma di Bolzano;Energia;2013;1048957990,00
-22 - Provincia Autonoma di Bolzano;Energia;2014;1000199060,00
-22 - Provincia Autonoma di Bolzano;Energia;2015;859471010,00
-22 - Provincia Autonoma di Bolzano;Energia;2016;1235960880,00
-22 - Provincia Autonoma di Bolzano;Energia;2017;1478277920,00
-22 - Provincia Autonoma di Bolzano;Energia;2018;1897246950,00
-22 - Provincia Autonoma di Bolzano;Energia;2019;1813282370,00
-22 - Provincia Autonoma di Bolzano;Energia;2020;1770416990,00
-22 - Provincia Autonoma di Bolzano;Energia;2021;2247892590,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2000;40401250,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2001;95263500,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2002;41440500,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2003;39615250,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2004;42575000,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2005;34088300,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2006;71291690,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2007;74343540,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2008;90226250,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2009;55629940,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2010;59068380,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2011;77387540,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2012;83285260,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2013;62716880,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2014;45603450,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2015;50953000,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2016;28113360,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2017;16842800,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2018;22884640,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2020;0664080,00
-22 - Provincia Autonoma di Bolzano;Altre opere pubbliche;2021;0705050,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2000;252616730,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2001;287495950,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2002;309346130,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2003;320878420,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2004;467130580,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2005;482181680,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2006;338911960,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2007;236818800,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2008;173978260,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2009;172868760,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2010;226650510,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2011;229884390,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2012;241819130,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2013;215509680,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2014;231437640,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2015;240696690,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2016;105199890,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2017;153491230,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2018;102970520,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2019;174865630,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2020;170808280,00
-22 - Provincia Autonoma di Bolzano;Altre in campo economico;2021;196245650,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2000;484128820,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2001;533086350,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2002;425622500,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2003;316563310,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2004;224280730,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2005;299243590,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2006;263660050,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2007;231723030,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2008;316748410,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2009;258034460,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2010;207908120,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2011;320590390,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2012;394539110,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2013;417833760,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2014;408327260,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2015;330958670,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2016;245555090,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2017;374750610,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2018;356355060,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2019;370665300,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2020;624186490,00
-22 - Provincia Autonoma di Bolzano;Oneri non ripartibili;2021;1330694850,00
+Trentino-Alto Adige;Amministrazione Generale;2000;1477753590,00
+Trentino-Alto Adige;Amministrazione Generale;2001;1765496840,00
+Trentino-Alto Adige;Amministrazione Generale;2002;1659232740,00
+Trentino-Alto Adige;Amministrazione Generale;2003;1823425190,00
+Trentino-Alto Adige;Amministrazione Generale;2004;1938726770,00
+Trentino-Alto Adige;Amministrazione Generale;2005;2033817140,00
+Trentino-Alto Adige;Amministrazione Generale;2006;1955874340,00
+Trentino-Alto Adige;Amministrazione Generale;2007;1972961640,00
+Trentino-Alto Adige;Amministrazione Generale;2008;2027412450,00
+Trentino-Alto Adige;Amministrazione Generale;2009;2157045170,00
+Trentino-Alto Adige;Amministrazione Generale;2010;2142111040,00
+Trentino-Alto Adige;Amministrazione Generale;2011;1889074110,00
+Trentino-Alto Adige;Amministrazione Generale;2012;1836541350,00
+Trentino-Alto Adige;Amministrazione Generale;2013;2019553490,00
+Trentino-Alto Adige;Amministrazione Generale;2014;2010430850,00
+Trentino-Alto Adige;Amministrazione Generale;2015;5194346320,00
+Trentino-Alto Adige;Amministrazione Generale;2016;3112957760,00
+Trentino-Alto Adige;Amministrazione Generale;2017;2423341590,00
+Trentino-Alto Adige;Amministrazione Generale;2018;3474640470,00
+Trentino-Alto Adige;Amministrazione Generale;2019;3392255840,00
+Trentino-Alto Adige;Amministrazione Generale;2020;3422363790,00
+Trentino-Alto Adige;Amministrazione Generale;2021;3712296780,00
+Trentino-Alto Adige;Difesa;2000;103874230,00
+Trentino-Alto Adige;Difesa;2001;161713860,00
+Trentino-Alto Adige;Difesa;2002;226796950,00
+Trentino-Alto Adige;Difesa;2003;111526470,00
+Trentino-Alto Adige;Difesa;2004;148041230,00
+Trentino-Alto Adige;Difesa;2005;152292840,00
+Trentino-Alto Adige;Difesa;2006;125020370,00
+Trentino-Alto Adige;Difesa;2007;118891020,00
+Trentino-Alto Adige;Difesa;2008;311101360,00
+Trentino-Alto Adige;Difesa;2009;320094470,00
+Trentino-Alto Adige;Difesa;2010;244751710,00
+Trentino-Alto Adige;Difesa;2011;296058270,00
+Trentino-Alto Adige;Difesa;2012;278033000,00
+Trentino-Alto Adige;Difesa;2013;277353780,00
+Trentino-Alto Adige;Difesa;2014;276954740,00
+Trentino-Alto Adige;Difesa;2015;239583070,00
+Trentino-Alto Adige;Difesa;2016;222374520,00
+Trentino-Alto Adige;Difesa;2017;244592450,00
+Trentino-Alto Adige;Difesa;2018;233165710,00
+Trentino-Alto Adige;Difesa;2019;236233060,00
+Trentino-Alto Adige;Difesa;2020;237175180,00
+Trentino-Alto Adige;Difesa;2021;249419350,00
+Trentino-Alto Adige;Sicurezza pubblica;2000;198218640,00
+Trentino-Alto Adige;Sicurezza pubblica;2001;219547370,00
+Trentino-Alto Adige;Sicurezza pubblica;2002;197024170,00
+Trentino-Alto Adige;Sicurezza pubblica;2003;212691160,00
+Trentino-Alto Adige;Sicurezza pubblica;2004;226774630,00
+Trentino-Alto Adige;Sicurezza pubblica;2005;234741730,00
+Trentino-Alto Adige;Sicurezza pubblica;2006;232598020,00
+Trentino-Alto Adige;Sicurezza pubblica;2007;223608380,00
+Trentino-Alto Adige;Sicurezza pubblica;2008;275534900,00
+Trentino-Alto Adige;Sicurezza pubblica;2009;301986240,00
+Trentino-Alto Adige;Sicurezza pubblica;2010;335628450,00
+Trentino-Alto Adige;Sicurezza pubblica;2011;371921730,00
+Trentino-Alto Adige;Sicurezza pubblica;2012;360920980,00
+Trentino-Alto Adige;Sicurezza pubblica;2013;321750240,00
+Trentino-Alto Adige;Sicurezza pubblica;2014;319295770,00
+Trentino-Alto Adige;Sicurezza pubblica;2015;316426610,00
+Trentino-Alto Adige;Sicurezza pubblica;2016;296274920,00
+Trentino-Alto Adige;Sicurezza pubblica;2017;378595400,00
+Trentino-Alto Adige;Sicurezza pubblica;2018;396086200,00
+Trentino-Alto Adige;Sicurezza pubblica;2019;431946880,00
+Trentino-Alto Adige;Sicurezza pubblica;2020;489027700,00
+Trentino-Alto Adige;Sicurezza pubblica;2021;451084120,00
+Trentino-Alto Adige;Giustizia;2000;40138060,00
+Trentino-Alto Adige;Giustizia;2001;33358470,00
+Trentino-Alto Adige;Giustizia;2002;47631640,00
+Trentino-Alto Adige;Giustizia;2003;51773980,00
+Trentino-Alto Adige;Giustizia;2004;57895180,00
+Trentino-Alto Adige;Giustizia;2005;63774490,00
+Trentino-Alto Adige;Giustizia;2006;68528330,00
+Trentino-Alto Adige;Giustizia;2007;56084530,00
+Trentino-Alto Adige;Giustizia;2008;71170290,00
+Trentino-Alto Adige;Giustizia;2009;74659500,00
+Trentino-Alto Adige;Giustizia;2010;70935230,00
+Trentino-Alto Adige;Giustizia;2011;70743240,00
+Trentino-Alto Adige;Giustizia;2012;68706700,00
+Trentino-Alto Adige;Giustizia;2013;73281700,00
+Trentino-Alto Adige;Giustizia;2014;66720530,00
+Trentino-Alto Adige;Giustizia;2015;69086400,00
+Trentino-Alto Adige;Giustizia;2016;63533970,00
+Trentino-Alto Adige;Giustizia;2017;64124990,00
+Trentino-Alto Adige;Giustizia;2018;70726120,00
+Trentino-Alto Adige;Giustizia;2019;74415490,00
+Trentino-Alto Adige;Giustizia;2020;74645960,00
+Trentino-Alto Adige;Giustizia;2021;77225170,00
+Trentino-Alto Adige;Istruzione;2000;1108051840,00
+Trentino-Alto Adige;Istruzione;2001;1264904300,00
+Trentino-Alto Adige;Istruzione;2002;1230822760,00
+Trentino-Alto Adige;Istruzione;2003;1362355590,00
+Trentino-Alto Adige;Istruzione;2004;1355545160,00
+Trentino-Alto Adige;Istruzione;2005;1383878270,00
+Trentino-Alto Adige;Istruzione;2006;1445804810,00
+Trentino-Alto Adige;Istruzione;2007;1511054410,00
+Trentino-Alto Adige;Istruzione;2008;1586725180,00
+Trentino-Alto Adige;Istruzione;2009;1685294800,00
+Trentino-Alto Adige;Istruzione;2010;1603397050,00
+Trentino-Alto Adige;Istruzione;2011;1596877580,00
+Trentino-Alto Adige;Istruzione;2012;1544125080,00
+Trentino-Alto Adige;Istruzione;2013;1639886880,00
+Trentino-Alto Adige;Istruzione;2014;1649560420,00
+Trentino-Alto Adige;Istruzione;2015;1673291320,00
+Trentino-Alto Adige;Istruzione;2016;1377749590,00
+Trentino-Alto Adige;Istruzione;2017;1405390850,00
+Trentino-Alto Adige;Istruzione;2018;1640660240,00
+Trentino-Alto Adige;Istruzione;2019;1603102540,00
+Trentino-Alto Adige;Istruzione;2020;1676865980,00
+Trentino-Alto Adige;Istruzione;2021;1750613470,00
+Trentino-Alto Adige;Formazione;2000;156753620,00
+Trentino-Alto Adige;Formazione;2001;156628710,00
+Trentino-Alto Adige;Formazione;2002;172647850,00
+Trentino-Alto Adige;Formazione;2003;167722310,00
+Trentino-Alto Adige;Formazione;2004;190155210,00
+Trentino-Alto Adige;Formazione;2005;213110310,00
+Trentino-Alto Adige;Formazione;2006;212730190,00
+Trentino-Alto Adige;Formazione;2007;206833570,00
+Trentino-Alto Adige;Formazione;2008;203519740,00
+Trentino-Alto Adige;Formazione;2009;209454890,00
+Trentino-Alto Adige;Formazione;2010;199942610,00
+Trentino-Alto Adige;Formazione;2011;177995410,00
+Trentino-Alto Adige;Formazione;2012;171998170,00
+Trentino-Alto Adige;Formazione;2013;140096590,00
+Trentino-Alto Adige;Formazione;2014;123497040,00
+Trentino-Alto Adige;Formazione;2015;114309780,00
+Trentino-Alto Adige;Formazione;2016;232881000,00
+Trentino-Alto Adige;Formazione;2017;228173050,00
+Trentino-Alto Adige;Formazione;2018;156507410,00
+Trentino-Alto Adige;Formazione;2019;166422290,00
+Trentino-Alto Adige;Formazione;2020;168093070,00
+Trentino-Alto Adige;Formazione;2021;179224810,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2000;41983010,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2001;49811660,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2002;63925780,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2003;78976470,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2004;97436560,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2005;102245640,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2006;109839970,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2007;97235850,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2008;105473870,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2009;96135210,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2010;107970600,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2011;97337370,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2012;107554760,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2013;170154940,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2014;112589560,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2015;126044350,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2016;119769180,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2017;125729230,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2018;140870000,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2019;204724070,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2020;172605280,00
+Trentino-Alto Adige;Ricerca e Sviluppo;2021;131726300,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2000;592651250,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2001;617591120,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2002;589728780,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2003;484704280,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2004;619065610,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2005;570754320,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2006;576034090,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2007;586443500,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2008;506668600,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2009;536977440,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2010;529325770,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2011;508478320,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2012;520257510,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2013;513270060,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2014;467232690,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2015;444928890,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2016;464448860,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2017;473350280,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2018;507780050,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2019;518241300,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2020;473313990,00
+Trentino-Alto Adige;Cultura e servizi ricreativi;2021;477878720,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2000;297800640,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2001;304796560,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2002;384727960,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2003;346246570,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2004;343234810,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2005;343600710,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2006;347866800,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2007;473764190,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2008;501154130,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2009;405369850,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2010;373888870,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2011;495227190,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2012;405987240,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2013;376498950,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2014;255295640,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2015;339996010,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2016;336400250,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2017;305088830,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2018;305936300,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2019;491593420,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2020;318847950,00
+Trentino-Alto Adige;Edilizia abitativa e urbanistica;2021;288125890,00
+Trentino-Alto Adige;Sanità;2000;1334533000,00
+Trentino-Alto Adige;Sanità;2001;1471783520,00
+Trentino-Alto Adige;Sanità;2002;1539665760,00
+Trentino-Alto Adige;Sanità;2003;1811701370,00
+Trentino-Alto Adige;Sanità;2004;1858171820,00
+Trentino-Alto Adige;Sanità;2005;1859684290,00
+Trentino-Alto Adige;Sanità;2006;2010919500,00
+Trentino-Alto Adige;Sanità;2007;2035492950,00
+Trentino-Alto Adige;Sanità;2008;2145948280,00
+Trentino-Alto Adige;Sanità;2009;2204628800,00
+Trentino-Alto Adige;Sanità;2010;2334181860,00
+Trentino-Alto Adige;Sanità;2011;2368265310,00
+Trentino-Alto Adige;Sanità;2012;2278846990,00
+Trentino-Alto Adige;Sanità;2013;2232872850,00
+Trentino-Alto Adige;Sanità;2014;2257970850,00
+Trentino-Alto Adige;Sanità;2015;2270340010,00
+Trentino-Alto Adige;Sanità;2016;2234617180,00
+Trentino-Alto Adige;Sanità;2017;2317405170,00
+Trentino-Alto Adige;Sanità;2018;2362340010,00
+Trentino-Alto Adige;Sanità;2019;2380219570,00
+Trentino-Alto Adige;Sanità;2020;2529514400,00
+Trentino-Alto Adige;Sanità;2021;2746178240,00
+Trentino-Alto Adige;Interventi in campo sociale;2000;927471880,00
+Trentino-Alto Adige;Interventi in campo sociale;2001;975645320,00
+Trentino-Alto Adige;Interventi in campo sociale;2002;1114319210,00
+Trentino-Alto Adige;Interventi in campo sociale;2003;1146478770,00
+Trentino-Alto Adige;Interventi in campo sociale;2004;1256530260,00
+Trentino-Alto Adige;Interventi in campo sociale;2005;1283323510,00
+Trentino-Alto Adige;Interventi in campo sociale;2006;1348121090,00
+Trentino-Alto Adige;Interventi in campo sociale;2007;1383607920,00
+Trentino-Alto Adige;Interventi in campo sociale;2008;1399248860,00
+Trentino-Alto Adige;Interventi in campo sociale;2009;1517605940,00
+Trentino-Alto Adige;Interventi in campo sociale;2010;1523324260,00
+Trentino-Alto Adige;Interventi in campo sociale;2011;1739323040,00
+Trentino-Alto Adige;Interventi in campo sociale;2012;1722681020,00
+Trentino-Alto Adige;Interventi in campo sociale;2013;1430417300,00
+Trentino-Alto Adige;Interventi in campo sociale;2014;1448442240,00
+Trentino-Alto Adige;Interventi in campo sociale;2015;1513074880,00
+Trentino-Alto Adige;Interventi in campo sociale;2016;1569411360,00
+Trentino-Alto Adige;Interventi in campo sociale;2017;1555670410,00
+Trentino-Alto Adige;Interventi in campo sociale;2018;1604833380,00
+Trentino-Alto Adige;Interventi in campo sociale;2019;1951259660,00
+Trentino-Alto Adige;Interventi in campo sociale;2020;2186335370,00
+Trentino-Alto Adige;Interventi in campo sociale;2021;1916479300,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2000;153847390,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2001;252453390,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2002;249898480,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2003;281606210,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2004;329505320,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2005;338388420,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2006;292041610,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2007;295542150,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2008;280551920,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2009;334610940,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2010;330680540,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2011;286623580,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2012;281747280,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2013;265215120,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2014;262735280,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2015;273877000,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2016;301152450,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2017;263301200,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2018;272371930,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2019;277610180,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2020;276654150,00
+Trentino-Alto Adige;Servizio Idrico Integrato;2021;302259970,00
+Trentino-Alto Adige;Ambiente;2000;145057150,00
+Trentino-Alto Adige;Ambiente;2001;267462220,00
+Trentino-Alto Adige;Ambiente;2002;285696830,00
+Trentino-Alto Adige;Ambiente;2003;308959070,00
+Trentino-Alto Adige;Ambiente;2004;394495130,00
+Trentino-Alto Adige;Ambiente;2005;262766840,00
+Trentino-Alto Adige;Ambiente;2006;301585370,00
+Trentino-Alto Adige;Ambiente;2007;322208820,00
+Trentino-Alto Adige;Ambiente;2008;257011190,00
+Trentino-Alto Adige;Ambiente;2009;244316000,00
+Trentino-Alto Adige;Ambiente;2010;258804930,00
+Trentino-Alto Adige;Ambiente;2011;262895370,00
+Trentino-Alto Adige;Ambiente;2012;264896380,00
+Trentino-Alto Adige;Ambiente;2013;266399040,00
+Trentino-Alto Adige;Ambiente;2014;258183690,00
+Trentino-Alto Adige;Ambiente;2015;276375130,00
+Trentino-Alto Adige;Ambiente;2016;315049920,00
+Trentino-Alto Adige;Ambiente;2017;247913610,00
+Trentino-Alto Adige;Ambiente;2018;265461380,00
+Trentino-Alto Adige;Ambiente;2019;338161770,00
+Trentino-Alto Adige;Ambiente;2020;292327310,00
+Trentino-Alto Adige;Ambiente;2021;289800260,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2000;189604300,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2001;111176420,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2002;116993720,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2003;121726990,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2004;126110010,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2005;123645110,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2006;113694230,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2007;133807390,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2008;140893200,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2009;169335210,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2010;232299330,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2011;206237870,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2012;193148960,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2013;155503450,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2014;129351320,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2015;135792710,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2016;150458810,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2017;142576180,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2018;144472710,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2019;154076480,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2020;200714450,00
+Trentino-Alto Adige;Smaltimento dei Rifiuti;2021;230193010,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2000;26205920,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2001;21438680,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2002;23680540,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2003;22032290,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2004;27276760,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2005;25960850,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2006;22028910,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2007;21561460,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2008;21708180,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2009;23392640,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2010;21895130,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2011;25264710,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2012;22106330,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2013;20595260,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2014;20080190,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2015;18685210,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2016;20652150,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2017;21990150,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2018;19225700,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2019;23091290,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2020;22272810,00
+Trentino-Alto Adige;Altri interventi igenico sanitari;2021;20525630,00
+Trentino-Alto Adige;Lavoro;2000;118605170,00
+Trentino-Alto Adige;Lavoro;2001;154759870,00
+Trentino-Alto Adige;Lavoro;2002;246395140,00
+Trentino-Alto Adige;Lavoro;2003;246381680,00
+Trentino-Alto Adige;Lavoro;2004;266706250,00
+Trentino-Alto Adige;Lavoro;2005;262918160,00
+Trentino-Alto Adige;Lavoro;2006;271786080,00
+Trentino-Alto Adige;Lavoro;2007;345715970,00
+Trentino-Alto Adige;Lavoro;2008;381864400,00
+Trentino-Alto Adige;Lavoro;2009;493466290,00
+Trentino-Alto Adige;Lavoro;2010;536786200,00
+Trentino-Alto Adige;Lavoro;2011;538827160,00
+Trentino-Alto Adige;Lavoro;2012;589051990,00
+Trentino-Alto Adige;Lavoro;2013;608297050,00
+Trentino-Alto Adige;Lavoro;2014;581382550,00
+Trentino-Alto Adige;Lavoro;2015;655135050,00
+Trentino-Alto Adige;Lavoro;2016;761096020,00
+Trentino-Alto Adige;Lavoro;2017;711168920,00
+Trentino-Alto Adige;Lavoro;2018;661152820,00
+Trentino-Alto Adige;Lavoro;2019;586995740,00
+Trentino-Alto Adige;Lavoro;2020;873581170,00
+Trentino-Alto Adige;Lavoro;2021;881030740,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2000;3088742990,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2001;3102762030,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2002;3398517000,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2003;3503096350,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2004;3597886350,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2005;3800319760,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2006;3980617490,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2007;4170373860,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2008;4311387260,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2009;4734469450,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2010;4733458540,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2011;4909499710,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2012;4824299300,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2013;4943394800,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2014;4964284970,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2015;5133673550,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2016;5186768270,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2017;5336574540,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2018;5561125580,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2019;5828703630,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2020;5948916400,00
+Trentino-Alto Adige;Previdenza e Integrazioni Salariali;2021;6142074810,00
+Trentino-Alto Adige;Altri trasporti;2000;538381250,00
+Trentino-Alto Adige;Altri trasporti;2001;739720660,00
+Trentino-Alto Adige;Altri trasporti;2002;558454950,00
+Trentino-Alto Adige;Altri trasporti;2003;684941090,00
+Trentino-Alto Adige;Altri trasporti;2004;923437360,00
+Trentino-Alto Adige;Altri trasporti;2005;810663870,00
+Trentino-Alto Adige;Altri trasporti;2006;762242960,00
+Trentino-Alto Adige;Altri trasporti;2007;680059060,00
+Trentino-Alto Adige;Altri trasporti;2008;849737680,00
+Trentino-Alto Adige;Altri trasporti;2009;811343560,00
+Trentino-Alto Adige;Altri trasporti;2010;798364160,00
+Trentino-Alto Adige;Altri trasporti;2011;724613670,00
+Trentino-Alto Adige;Altri trasporti;2012;753922610,00
+Trentino-Alto Adige;Altri trasporti;2013;808498170,00
+Trentino-Alto Adige;Altri trasporti;2014;774946670,00
+Trentino-Alto Adige;Altri trasporti;2015;756745760,00
+Trentino-Alto Adige;Altri trasporti;2016;658285590,00
+Trentino-Alto Adige;Altri trasporti;2017;731002470,00
+Trentino-Alto Adige;Altri trasporti;2018;656612720,00
+Trentino-Alto Adige;Altri trasporti;2019;611857600,00
+Trentino-Alto Adige;Altri trasporti;2020;644275080,00
+Trentino-Alto Adige;Altri trasporti;2021;746077880,00
+Trentino-Alto Adige;Viabilità;2000;655050890,00
+Trentino-Alto Adige;Viabilità;2001;724252870,00
+Trentino-Alto Adige;Viabilità;2002;813100490,00
+Trentino-Alto Adige;Viabilità;2003;777716440,00
+Trentino-Alto Adige;Viabilità;2004;895038530,00
+Trentino-Alto Adige;Viabilità;2005;791693410,00
+Trentino-Alto Adige;Viabilità;2006;933917440,00
+Trentino-Alto Adige;Viabilità;2007;912060550,00
+Trentino-Alto Adige;Viabilità;2008;966177200,00
+Trentino-Alto Adige;Viabilità;2009;889758230,00
+Trentino-Alto Adige;Viabilità;2010;776861270,00
+Trentino-Alto Adige;Viabilità;2011;822528970,00
+Trentino-Alto Adige;Viabilità;2012;773316600,00
+Trentino-Alto Adige;Viabilità;2013;751189800,00
+Trentino-Alto Adige;Viabilità;2014;741473290,00
+Trentino-Alto Adige;Viabilità;2015;905818290,00
+Trentino-Alto Adige;Viabilità;2016;729496640,00
+Trentino-Alto Adige;Viabilità;2017;781163020,00
+Trentino-Alto Adige;Viabilità;2018;803030020,00
+Trentino-Alto Adige;Viabilità;2019;940281680,00
+Trentino-Alto Adige;Viabilità;2020;963033050,00
+Trentino-Alto Adige;Viabilità;2021;936266550,00
+Trentino-Alto Adige;Telecomunicazioni;2000;176129670,00
+Trentino-Alto Adige;Telecomunicazioni;2001;175355850,00
+Trentino-Alto Adige;Telecomunicazioni;2002;185026570,00
+Trentino-Alto Adige;Telecomunicazioni;2003;205166050,00
+Trentino-Alto Adige;Telecomunicazioni;2004;213343300,00
+Trentino-Alto Adige;Telecomunicazioni;2005;243568750,00
+Trentino-Alto Adige;Telecomunicazioni;2006;284840150,00
+Trentino-Alto Adige;Telecomunicazioni;2007;247743050,00
+Trentino-Alto Adige;Telecomunicazioni;2008;255384940,00
+Trentino-Alto Adige;Telecomunicazioni;2009;294794150,00
+Trentino-Alto Adige;Telecomunicazioni;2010;292363070,00
+Trentino-Alto Adige;Telecomunicazioni;2011;285308250,00
+Trentino-Alto Adige;Telecomunicazioni;2012;320138430,00
+Trentino-Alto Adige;Telecomunicazioni;2013;367938050,00
+Trentino-Alto Adige;Telecomunicazioni;2014;280843110,00
+Trentino-Alto Adige;Telecomunicazioni;2015;286461020,00
+Trentino-Alto Adige;Telecomunicazioni;2016;254465800,00
+Trentino-Alto Adige;Telecomunicazioni;2017;243609930,00
+Trentino-Alto Adige;Telecomunicazioni;2018;246428670,00
+Trentino-Alto Adige;Telecomunicazioni;2019;331695950,00
+Trentino-Alto Adige;Telecomunicazioni;2020;385994140,00
+Trentino-Alto Adige;Telecomunicazioni;2021;338966770,00
+Trentino-Alto Adige;Agricoltura;2000;267385270,00
+Trentino-Alto Adige;Agricoltura;2001;266740350,00
+Trentino-Alto Adige;Agricoltura;2002;261317650,00
+Trentino-Alto Adige;Agricoltura;2003;265273940,00
+Trentino-Alto Adige;Agricoltura;2004;398622730,00
+Trentino-Alto Adige;Agricoltura;2005;277246380,00
+Trentino-Alto Adige;Agricoltura;2006;279084540,00
+Trentino-Alto Adige;Agricoltura;2007;274341340,00
+Trentino-Alto Adige;Agricoltura;2008;331846070,00
+Trentino-Alto Adige;Agricoltura;2009;359620460,00
+Trentino-Alto Adige;Agricoltura;2010;321982920,00
+Trentino-Alto Adige;Agricoltura;2011;298655180,00
+Trentino-Alto Adige;Agricoltura;2012;277496700,00
+Trentino-Alto Adige;Agricoltura;2013;299009540,00
+Trentino-Alto Adige;Agricoltura;2014;254646750,00
+Trentino-Alto Adige;Agricoltura;2015;254903820,00
+Trentino-Alto Adige;Agricoltura;2016;256206670,00
+Trentino-Alto Adige;Agricoltura;2017;226379570,00
+Trentino-Alto Adige;Agricoltura;2018;200966490,00
+Trentino-Alto Adige;Agricoltura;2019;167613300,00
+Trentino-Alto Adige;Agricoltura;2020;176152550,00
+Trentino-Alto Adige;Agricoltura;2021;151926270,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2000;790820,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2001;821420,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2002;1271350,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2003;1434650,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2004;4941550,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2005;1403680,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2006;2164630,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2007;2261860,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2008;2277410,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2009;1879510,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2010;3010500,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2011;2235440,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2012;1963180,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2013;2268190,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2014;2024570,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2015;1494740,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2016;1628370,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2017;6360320,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2018;5661110,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2019;6905810,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2020;6305210,00
+Trentino-Alto Adige;Pesca marittima e Acquicoltura;2021;6672580,00
+Trentino-Alto Adige;Turismo;2000;185655590,00
+Trentino-Alto Adige;Turismo;2001;123468490,00
+Trentino-Alto Adige;Turismo;2002;150202560,00
+Trentino-Alto Adige;Turismo;2003;165448660,00
+Trentino-Alto Adige;Turismo;2004;185180560,00
+Trentino-Alto Adige;Turismo;2005;210817540,00
+Trentino-Alto Adige;Turismo;2006;212265730,00
+Trentino-Alto Adige;Turismo;2007;168957720,00
+Trentino-Alto Adige;Turismo;2008;180677440,00
+Trentino-Alto Adige;Turismo;2009;177546260,00
+Trentino-Alto Adige;Turismo;2010;179356290,00
+Trentino-Alto Adige;Turismo;2011;181685550,00
+Trentino-Alto Adige;Turismo;2012;158357170,00
+Trentino-Alto Adige;Turismo;2013;158908100,00
+Trentino-Alto Adige;Turismo;2014;147445460,00
+Trentino-Alto Adige;Turismo;2015;137060550,00
+Trentino-Alto Adige;Turismo;2016;150474830,00
+Trentino-Alto Adige;Turismo;2017;149785810,00
+Trentino-Alto Adige;Turismo;2018;163740010,00
+Trentino-Alto Adige;Turismo;2019;173769610,00
+Trentino-Alto Adige;Turismo;2020;274552300,00
+Trentino-Alto Adige;Turismo;2021;729308470,00
+Trentino-Alto Adige;Commercio;2000;62327300,00
+Trentino-Alto Adige;Commercio;2001;64129600,00
+Trentino-Alto Adige;Commercio;2002;77934030,00
+Trentino-Alto Adige;Commercio;2003;104832530,00
+Trentino-Alto Adige;Commercio;2004;88764160,00
+Trentino-Alto Adige;Commercio;2005;80309330,00
+Trentino-Alto Adige;Commercio;2006;93369570,00
+Trentino-Alto Adige;Commercio;2007;74590850,00
+Trentino-Alto Adige;Commercio;2008;99353840,00
+Trentino-Alto Adige;Commercio;2009;90163620,00
+Trentino-Alto Adige;Commercio;2010;92102960,00
+Trentino-Alto Adige;Commercio;2011;93295790,00
+Trentino-Alto Adige;Commercio;2012;86420620,00
+Trentino-Alto Adige;Commercio;2013;88535860,00
+Trentino-Alto Adige;Commercio;2014;83461840,00
+Trentino-Alto Adige;Commercio;2015;83363730,00
+Trentino-Alto Adige;Commercio;2016;115750690,00
+Trentino-Alto Adige;Commercio;2017;106022680,00
+Trentino-Alto Adige;Commercio;2018;122971140,00
+Trentino-Alto Adige;Commercio;2019;106995900,00
+Trentino-Alto Adige;Commercio;2020;213981990,00
+Trentino-Alto Adige;Commercio;2021;278537710,00
+Trentino-Alto Adige;Industria e Artigianato;2000;170495650,00
+Trentino-Alto Adige;Industria e Artigianato;2001;426113520,00
+Trentino-Alto Adige;Industria e Artigianato;2002;378697530,00
+Trentino-Alto Adige;Industria e Artigianato;2003;389338580,00
+Trentino-Alto Adige;Industria e Artigianato;2004;230977780,00
+Trentino-Alto Adige;Industria e Artigianato;2005;210481300,00
+Trentino-Alto Adige;Industria e Artigianato;2006;237444620,00
+Trentino-Alto Adige;Industria e Artigianato;2007;185032020,00
+Trentino-Alto Adige;Industria e Artigianato;2008;113593050,00
+Trentino-Alto Adige;Industria e Artigianato;2009;98103100,00
+Trentino-Alto Adige;Industria e Artigianato;2010;154957130,00
+Trentino-Alto Adige;Industria e Artigianato;2011;137285890,00
+Trentino-Alto Adige;Industria e Artigianato;2012;98463410,00
+Trentino-Alto Adige;Industria e Artigianato;2013;79737020,00
+Trentino-Alto Adige;Industria e Artigianato;2014;73358920,00
+Trentino-Alto Adige;Industria e Artigianato;2015;93748770,00
+Trentino-Alto Adige;Industria e Artigianato;2016;275689640,00
+Trentino-Alto Adige;Industria e Artigianato;2017;329938550,00
+Trentino-Alto Adige;Industria e Artigianato;2018;397364660,00
+Trentino-Alto Adige;Industria e Artigianato;2019;401747110,00
+Trentino-Alto Adige;Industria e Artigianato;2020;357473700,00
+Trentino-Alto Adige;Industria e Artigianato;2021;700130390,00
+Trentino-Alto Adige;Energia;2000;713007230,00
+Trentino-Alto Adige;Energia;2001;858358150,00
+Trentino-Alto Adige;Energia;2002;1018764000,00
+Trentino-Alto Adige;Energia;2003;776810850,00
+Trentino-Alto Adige;Energia;2004;962941190,00
+Trentino-Alto Adige;Energia;2005;1216962050,00
+Trentino-Alto Adige;Energia;2006;1207334120,00
+Trentino-Alto Adige;Energia;2007;1314601220,00
+Trentino-Alto Adige;Energia;2008;1696120190,00
+Trentino-Alto Adige;Energia;2009;2257992060,00
+Trentino-Alto Adige;Energia;2010;1989444010,00
+Trentino-Alto Adige;Energia;2011;2270961820,00
+Trentino-Alto Adige;Energia;2012;2499463390,00
+Trentino-Alto Adige;Energia;2013;2631192670,00
+Trentino-Alto Adige;Energia;2014;2764099070,00
+Trentino-Alto Adige;Energia;2015;2530765410,00
+Trentino-Alto Adige;Energia;2016;3012973220,00
+Trentino-Alto Adige;Energia;2017;3063059790,00
+Trentino-Alto Adige;Energia;2018;3587177100,00
+Trentino-Alto Adige;Energia;2019;3548538350,00
+Trentino-Alto Adige;Energia;2020;3685253080,00
+Trentino-Alto Adige;Energia;2021;4961039110,00
+Trentino-Alto Adige;Altre opere pubbliche;2000;40401250,00
+Trentino-Alto Adige;Altre opere pubbliche;2001;95263500,00
+Trentino-Alto Adige;Altre opere pubbliche;2002;41440500,00
+Trentino-Alto Adige;Altre opere pubbliche;2003;39787130,00
+Trentino-Alto Adige;Altre opere pubbliche;2004;42942730,00
+Trentino-Alto Adige;Altre opere pubbliche;2005;34477420,00
+Trentino-Alto Adige;Altre opere pubbliche;2006;71670050,00
+Trentino-Alto Adige;Altre opere pubbliche;2007;74742190,00
+Trentino-Alto Adige;Altre opere pubbliche;2008;90798140,00
+Trentino-Alto Adige;Altre opere pubbliche;2009;56146750,00
+Trentino-Alto Adige;Altre opere pubbliche;2010;59600820,00
+Trentino-Alto Adige;Altre opere pubbliche;2011;78024480,00
+Trentino-Alto Adige;Altre opere pubbliche;2012;86905900,00
+Trentino-Alto Adige;Altre opere pubbliche;2013;66712070,00
+Trentino-Alto Adige;Altre opere pubbliche;2014;49184240,00
+Trentino-Alto Adige;Altre opere pubbliche;2015;53985510,00
+Trentino-Alto Adige;Altre opere pubbliche;2016;28113360,00
+Trentino-Alto Adige;Altre opere pubbliche;2017;16842800,00
+Trentino-Alto Adige;Altre opere pubbliche;2018;22884640,00
+Trentino-Alto Adige;Altre opere pubbliche;2019;0,00
+Trentino-Alto Adige;Altre opere pubbliche;2020;664080,00
+Trentino-Alto Adige;Altre opere pubbliche;2021;705050,00
+Trentino-Alto Adige;Altre in campo economico;2000;475290020,00
+Trentino-Alto Adige;Altre in campo economico;2001;453112820,00
+Trentino-Alto Adige;Altre in campo economico;2002;485393200,00
+Trentino-Alto Adige;Altre in campo economico;2003;432686500,00
+Trentino-Alto Adige;Altre in campo economico;2004;636059400,00
+Trentino-Alto Adige;Altre in campo economico;2005;690420600,00
+Trentino-Alto Adige;Altre in campo economico;2006;685865450,00
+Trentino-Alto Adige;Altre in campo economico;2007;516811280,00
+Trentino-Alto Adige;Altre in campo economico;2008;514873590,00
+Trentino-Alto Adige;Altre in campo economico;2009;806132280,00
+Trentino-Alto Adige;Altre in campo economico;2010;601065470,00
+Trentino-Alto Adige;Altre in campo economico;2011;643123960,00
+Trentino-Alto Adige;Altre in campo economico;2012;691521160,00
+Trentino-Alto Adige;Altre in campo economico;2013;611827230,00
+Trentino-Alto Adige;Altre in campo economico;2014;699529460,00
+Trentino-Alto Adige;Altre in campo economico;2015;618714820,00
+Trentino-Alto Adige;Altre in campo economico;2016;323866950,00
+Trentino-Alto Adige;Altre in campo economico;2017;295389760,00
+Trentino-Alto Adige;Altre in campo economico;2018;288689730,00
+Trentino-Alto Adige;Altre in campo economico;2019;330290420,00
+Trentino-Alto Adige;Altre in campo economico;2020;319497730,00
+Trentino-Alto Adige;Altre in campo economico;2021;357325880,00
+Trentino-Alto Adige;Oneri non ripartibili;2000;1077856450,00
+Trentino-Alto Adige;Oneri non ripartibili;2001;1045389990,00
+Trentino-Alto Adige;Oneri non ripartibili;2002;871041390,00
+Trentino-Alto Adige;Oneri non ripartibili;2003;643469240,00
+Trentino-Alto Adige;Oneri non ripartibili;2004;446550580,00
+Trentino-Alto Adige;Oneri non ripartibili;2005;692361600,00
+Trentino-Alto Adige;Oneri non ripartibili;2006;583250660,00
+Trentino-Alto Adige;Oneri non ripartibili;2007;500096210,00
+Trentino-Alto Adige;Oneri non ripartibili;2008;693712550,00
+Trentino-Alto Adige;Oneri non ripartibili;2009;565905170,00
+Trentino-Alto Adige;Oneri non ripartibili;2010;454031230,00
+Trentino-Alto Adige;Oneri non ripartibili;2011;618966510,00
+Trentino-Alto Adige;Oneri non ripartibili;2012;771270490,00
+Trentino-Alto Adige;Oneri non ripartibili;2013;1085960420,00
+Trentino-Alto Adige;Oneri non ripartibili;2014;929076200,00
+Trentino-Alto Adige;Oneri non ripartibili;2015;1118143940,00
+Trentino-Alto Adige;Oneri non ripartibili;2016;488017410,00
+Trentino-Alto Adige;Oneri non ripartibili;2017;703112560,00
+Trentino-Alto Adige;Oneri non ripartibili;2018;678059740,00
+Trentino-Alto Adige;Oneri non ripartibili;2019;702104640,00
+Trentino-Alto Adige;Oneri non ripartibili;2020;1215925700,00
+Trentino-Alto Adige;Oneri non ripartibili;2021;2977800730,00
 Abruzzo;Amministrazione Generale;2000;1214868140,00
 Abruzzo;Amministrazione Generale;2001;1331246410,00
 Abruzzo;Amministrazione Generale;2002;1306918770,00
@@ -8691,9 +8117,9 @@ Abruzzo;Agricoltura;2018;48002300,00
 Abruzzo;Agricoltura;2019;43063150,00
 Abruzzo;Agricoltura;2020;72029800,00
 Abruzzo;Agricoltura;2021;53327300,00
-Abruzzo;Pesca marittima e Acquicoltura;2000;0110570,00
-Abruzzo;Pesca marittima e Acquicoltura;2001;0155190,00
-Abruzzo;Pesca marittima e Acquicoltura;2002;0817580,00
+Abruzzo;Pesca marittima e Acquicoltura;2000;110570,00
+Abruzzo;Pesca marittima e Acquicoltura;2001;155190,00
+Abruzzo;Pesca marittima e Acquicoltura;2002;817580,00
 Abruzzo;Pesca marittima e Acquicoltura;2003;1469300,00
 Abruzzo;Pesca marittima e Acquicoltura;2004;3123410,00
 Abruzzo;Pesca marittima e Acquicoltura;2005;2949810,00
@@ -8705,7 +8131,7 @@ Abruzzo;Pesca marittima e Acquicoltura;2010;1360220,00
 Abruzzo;Pesca marittima e Acquicoltura;2011;1769410,00
 Abruzzo;Pesca marittima e Acquicoltura;2012;3354870,00
 Abruzzo;Pesca marittima e Acquicoltura;2013;4043990,00
-Abruzzo;Pesca marittima e Acquicoltura;2014;0407950,00
+Abruzzo;Pesca marittima e Acquicoltura;2014;407950,00
 Abruzzo;Pesca marittima e Acquicoltura;2015;3143260,00
 Abruzzo;Pesca marittima e Acquicoltura;2016;3766500,00
 Abruzzo;Pesca marittima e Acquicoltura;2017;4860110,00
@@ -8817,10 +8243,12 @@ Abruzzo;Altre opere pubbliche;2012;21578340,00
 Abruzzo;Altre opere pubbliche;2013;6315040,00
 Abruzzo;Altre opere pubbliche;2014;10382700,00
 Abruzzo;Altre opere pubbliche;2015;1944050,00
-Abruzzo;Altre opere pubbliche;2016;0971520,00
-Abruzzo;Altre opere pubbliche;2017;0215990,00
-Abruzzo;Altre opere pubbliche;2018;0182980,00
-Abruzzo;Altre opere pubbliche;2019;0049860,00
+Abruzzo;Altre opere pubbliche;2016;971520,00
+Abruzzo;Altre opere pubbliche;2017;215990,00
+Abruzzo;Altre opere pubbliche;2018;182980,00
+Abruzzo;Altre opere pubbliche;2019;49860,00
+Abruzzo;Altre opere pubbliche;2020;49860,00
+Abruzzo;Altre opere pubbliche;2021;49860,00
 Abruzzo;Altre in campo economico;2000;660121960,00
 Abruzzo;Altre in campo economico;2001;812909570,00
 Abruzzo;Altre in campo economico;2002;906252680,00
@@ -9327,23 +8755,23 @@ Molise;Agricoltura;2018;25990290,00
 Molise;Agricoltura;2019;19574140,00
 Molise;Agricoltura;2020;26782020,00
 Molise;Agricoltura;2021;20016460,00
-Molise;Pesca marittima e Acquicoltura;2000;0411850,00
-Molise;Pesca marittima e Acquicoltura;2001;0154410,00
-Molise;Pesca marittima e Acquicoltura;2002;0525100,00
-Molise;Pesca marittima e Acquicoltura;2003;0847910,00
-Molise;Pesca marittima e Acquicoltura;2004;0442190,00
-Molise;Pesca marittima e Acquicoltura;2005;0775540,00
-Molise;Pesca marittima e Acquicoltura;2006;0605220,00
-Molise;Pesca marittima e Acquicoltura;2007;0865030,00
-Molise;Pesca marittima e Acquicoltura;2008;0513200,00
-Molise;Pesca marittima e Acquicoltura;2009;0728720,00
-Molise;Pesca marittima e Acquicoltura;2010;0575270,00
-Molise;Pesca marittima e Acquicoltura;2011;0779190,00
-Molise;Pesca marittima e Acquicoltura;2012;0761500,00
-Molise;Pesca marittima e Acquicoltura;2013;0919530,00
-Molise;Pesca marittima e Acquicoltura;2014;0487590,00
-Molise;Pesca marittima e Acquicoltura;2015;0439450,00
-Molise;Pesca marittima e Acquicoltura;2016;0746260,00
+Molise;Pesca marittima e Acquicoltura;2000;411850,00
+Molise;Pesca marittima e Acquicoltura;2001;154410,00
+Molise;Pesca marittima e Acquicoltura;2002;525100,00
+Molise;Pesca marittima e Acquicoltura;2003;847910,00
+Molise;Pesca marittima e Acquicoltura;2004;442190,00
+Molise;Pesca marittima e Acquicoltura;2005;775540,00
+Molise;Pesca marittima e Acquicoltura;2006;605220,00
+Molise;Pesca marittima e Acquicoltura;2007;865030,00
+Molise;Pesca marittima e Acquicoltura;2008;513200,00
+Molise;Pesca marittima e Acquicoltura;2009;728720,00
+Molise;Pesca marittima e Acquicoltura;2010;575270,00
+Molise;Pesca marittima e Acquicoltura;2011;779190,00
+Molise;Pesca marittima e Acquicoltura;2012;761500,00
+Molise;Pesca marittima e Acquicoltura;2013;919530,00
+Molise;Pesca marittima e Acquicoltura;2014;487590,00
+Molise;Pesca marittima e Acquicoltura;2015;439450,00
+Molise;Pesca marittima e Acquicoltura;2016;746260,00
 Molise;Pesca marittima e Acquicoltura;2017;1426700,00
 Molise;Pesca marittima e Acquicoltura;2018;1047710,00
 Molise;Pesca marittima e Acquicoltura;2019;1409440,00
@@ -9439,10 +8867,10 @@ Molise;Energia;2020;356338090,00
 Molise;Energia;2021;507080380,00
 Molise;Altre opere pubbliche;2000;9059180,00
 Molise;Altre opere pubbliche;2001;13097870,00
-Molise;Altre opere pubbliche;2002;0000000,00
-Molise;Altre opere pubbliche;2003;0000000,00
-Molise;Altre opere pubbliche;2004;0058130,00
-Molise;Altre opere pubbliche;2005;0542540,00
+Molise;Altre opere pubbliche;2002;0,00
+Molise;Altre opere pubbliche;2003;0,00
+Molise;Altre opere pubbliche;2004;58130,00
+Molise;Altre opere pubbliche;2005;542540,00
 Molise;Altre opere pubbliche;2006;4006510,00
 Molise;Altre opere pubbliche;2007;6158800,00
 Molise;Altre opere pubbliche;2008;4321320,00
@@ -9450,14 +8878,15 @@ Molise;Altre opere pubbliche;2009;2437480,00
 Molise;Altre opere pubbliche;2010;2135270,00
 Molise;Altre opere pubbliche;2011;1888360,00
 Molise;Altre opere pubbliche;2012;1498720,00
-Molise;Altre opere pubbliche;2013;0444950,00
-Molise;Altre opere pubbliche;2014;0199390,00
-Molise;Altre opere pubbliche;2015;0000000,00
-Molise;Altre opere pubbliche;2016;0143940,00
-Molise;Altre opere pubbliche;2017;0000000,00
-Molise;Altre opere pubbliche;2018;0000000,00
-Molise;Altre opere pubbliche;2019;0000000,00
-Molise;Altre opere pubbliche;2020;0000000,00
+Molise;Altre opere pubbliche;2013;444950,00
+Molise;Altre opere pubbliche;2014;199390,00
+Molise;Altre opere pubbliche;2015;0,00
+Molise;Altre opere pubbliche;2016;143940,00
+Molise;Altre opere pubbliche;2017;0,00
+Molise;Altre opere pubbliche;2018;0,00
+Molise;Altre opere pubbliche;2019;0,00
+Molise;Altre opere pubbliche;2020;0,00
+Molise;Altre opere pubbliche;2021;0,00
 Molise;Altre in campo economico;2000;289493170,00
 Molise;Altre in campo economico;2001;312497140,00
 Molise;Altre in campo economico;2002;321399170,00
@@ -11352,6 +10781,9 @@ Basilicata;Energia;2020;1452,0900000000
 Basilicata;Energia;2021;1651,0504700000
 Basilicata;Altre opere pubbliche;2000;3,3853700000
 Basilicata;Altre opere pubbliche;2001;9,2074000000
+Basilicata;Altre opere pubbliche;2002;0,00
+Basilicata;Altre opere pubbliche;2003;0,00
+Basilicata;Altre opere pubbliche;2004;0,00
 Basilicata;Altre opere pubbliche;2005;0,0051700000
 Basilicata;Altre opere pubbliche;2006;0,0079600000
 Basilicata;Altre opere pubbliche;2007;0,0121200000
@@ -11362,6 +10794,13 @@ Basilicata;Altre opere pubbliche;2011;0,5801500000
 Basilicata;Altre opere pubbliche;2012;1,4823200000
 Basilicata;Altre opere pubbliche;2013;1,3328500000
 Basilicata;Altre opere pubbliche;2014;0,0322400000
+Basilicata;Altre opere pubbliche;2015;0,00
+Basilicata;Altre opere pubbliche;2016;0,00
+Basilicata;Altre opere pubbliche;2017;0,00
+Basilicata;Altre opere pubbliche;2018;0,00
+Basilicata;Altre opere pubbliche;2019;0,00
+Basilicata;Altre opere pubbliche;2020;0,00
+Basilicata;Altre opere pubbliche;2021;0,00
 Basilicata;Altre in campo economico;2000;349,0708800000
 Basilicata;Altre in campo economico;2001;339,2318000000
 Basilicata;Altre in campo economico;2002;372,7710400000
@@ -11997,6 +11436,9 @@ Calabria;Altre opere pubbliche;2015;20,3901500000
 Calabria;Altre opere pubbliche;2016;4,1385300000
 Calabria;Altre opere pubbliche;2017;0,0251300000
 Calabria;Altre opere pubbliche;2018;0,0000000000
+Calabria;Altre opere pubbliche;2019;0,0000000000
+Calabria;Altre opere pubbliche;2020;0,0000000000
+Calabria;Altre opere pubbliche;2021;0,0000000000
 Calabria;Altre in campo economico;2000;952,8738000000
 Calabria;Altre in campo economico;2001;1141,4068300000
 Calabria;Altre in campo economico;2002;1263,0395700000
@@ -12633,6 +12075,8 @@ Sicilia;Altre opere pubbliche;2016;5,0098000000
 Sicilia;Altre opere pubbliche;2017;8,1755000000
 Sicilia;Altre opere pubbliche;2018;13,3157100000
 Sicilia;Altre opere pubbliche;2019;3,6804400000
+Sicilia;Altre opere pubbliche;2020;0,00
+Sicilia;Altre opere pubbliche;2021;0,00
 Sicilia;Altre in campo economico;2000;1428,9991000000
 Sicilia;Altre in campo economico;2001;2121,8044900000
 Sicilia;Altre in campo economico;2002;2434,6092900000
