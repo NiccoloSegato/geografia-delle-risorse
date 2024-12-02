@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Ortica';
+  src: url('assets/fonts/OrticaLinear-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Ortica';
+  src: url('assets/fonts/OrticaLinear-Bold.otf') format('opentype');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Ortica';
+  src: url('assets/fonts/OrticaLinear-Light.otf') format('opentype');
+  font-weight: lighter;
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -5,4 +20,17 @@ html, body {
 
 canvas {
   display: block;
+}
+
+.region-label {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+  color: #fff;
+  font-weight: 200;
+}
+#selected-label {
+  font-family: 'forma-djr-text', sans-serif;
+  font-size: 25px;
+  color: #fff;
+  font-weight: 600;
 }
