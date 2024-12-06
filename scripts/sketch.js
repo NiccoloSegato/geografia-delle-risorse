@@ -17,6 +17,7 @@ let expensesLength;
 
 let regions = ["Tutte le regioni"];
 let categories = [];
+let expensesPerCategory = [];
 
 /**
  * Colors
@@ -29,8 +30,10 @@ function preload() {
 }
 
 function setup() {
-  let canvas = createCanvas(windowWidth * 0.9, windowHeight - 250);
+  let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
+
+  noLoop();
 
   expenses = data.getObject();
   expensesLength = Object.keys(expenses).length;
@@ -56,9 +59,26 @@ function setup() {
 function draw() {
   background('black');
 
-  fill(textColor);
-  textFont('forma-djr-text');
+  // Eseguo il calcolo dei pallini per ogi categoria di spesa
+  for(let i = 0; i < categories.length; i++) {
+    let sum = 0;
+    for(let j = 0; j < expensesLength; j++) {
+      if(expenses[j]['Settore'] == categories[i]) {
+        try {
+          sum += parseInt(expenses[j]['S - Consolidato SPA']);
+        }
+        catch {
+          sum += 0;
+        }
+      }
+    }
+    expensesPerCategory.push(sum);
+  }
 
-  // Stampo la regione selezionata
-  text(selectedRegion, 50, 230);
+  console.log(categories);
+  console.log(expensesPerCategory);
+}
+
+function windowResized() {
+  
 }

@@ -23,6 +23,10 @@ function pDrawLabels() {
         pRegionLabel.addEventListener('click', pRegionClicked);
         pRegionsContainer.appendChild(pRegionLabel);
     }
+
+    // Imposto "Tutte le regioni" come regione selezionata
+    let pAllRegionsLabel = document.getElementsByClassName('region-label')[0];
+    pAllRegionsLabel.classList.add('selected-label');
 }
 
 /**
@@ -30,5 +34,15 @@ function pDrawLabels() {
  * @param {MouseEvent} e Evento del click
  */
 function pRegionClicked(e) {
+    // Rimuovo la classe selected-label da tutti i label delle regioni
+    let regionLabels = document.getElementsByClassName('region-label');
+    for (let i = 0; i < regionLabels.length; i++) {
+        regionLabels[i].classList.remove('selected-label');
+    }
+
+    // Aggiungo la classe selected-label al label cliccato
     selectedRegion = e.target.innerHTML;
+    e.target.classList.add('selected-label');
+
+    console.log(e.target.innerHTML);
 }
