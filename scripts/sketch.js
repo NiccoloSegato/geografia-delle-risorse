@@ -54,16 +54,12 @@ function setup() {
       categories.push(category);
     }
   }
-}
-
-function draw() {
-  background('black');
 
   // Eseguo il calcolo dei pallini per ogi categoria di spesa
   for(let i = 0; i < categories.length; i++) {
     let sum = 0;
     for(let j = 0; j < expensesLength; j++) {
-      if(expenses[j]['Settore'] == categories[i]) {
+      if(expenses[j]['Settore'] == categories[i] && expenses[j]['Anno'] == '2021') {
         try {
           sum += parseInt(expenses[j]['S - Consolidato SPA']);
         }
@@ -77,6 +73,12 @@ function draw() {
 
   console.log(categories);
   console.log(expensesPerCategory);
+}
+
+function draw() {
+  background('black');
+
+  
 }
 
 function windowResized() {
