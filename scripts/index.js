@@ -46,3 +46,7 @@ function pRegionClicked(e) {
 
     console.log(e.target.innerHTML);
 }
+
+function pFindRegionIndex(regionName) {
+    return regions.indexOf(regionName);
+}
