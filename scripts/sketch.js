@@ -20,6 +20,9 @@ let categories = [];
 let expensesPerCategory = [];
 let totalExpenses = 0;
 
+// Create a data struct to store the region name, and for each the category and the amount
+let regionDataLastYear = [];
+
 /**
  * Colors
  */
@@ -79,10 +82,33 @@ function setup() {
     totalExpenses += expensesPerCategory[i];
   }
 
-  console.log("Total expenses: " + totalExpenses);
+  // Ordino i dati dentro all'array dell'ultimo anno
+  for(let i = 1; i < regions.length; i++) {
+    let region = {
+      region: regions[i],
+      data: []
+    };
+    for(let j = 0; j < categories.length; j++) {
+      let sum = 0;
+      for(let k = 0; k < expensesLength; k++) {
+        if(expenses[k]['Regione per Dettaglio'] == regions[i] && expenses[k]['Settore'] == categories[j] && expenses[k]['Anno'] == '2021') {
+          try {
+            sum += parseInt(expenses[k]['S - Consolidato SPA']);
+          }
+          catch {
+            sum += 0;
+          }
+        }
+      }
+      region.data.push({
+        category: categories[j],
+        amount: sum
+      });
+    }
+    regionDataLastYear.push(region);
+  }
 
-  console.log(categories);
-  console.log(expensesPerCategory);
+  console.log(regionDataLastYear);
 }
 
 function draw() {
@@ -97,17 +123,18 @@ function draw() {
   let positionY = radius;
 
   let counter = 0;
-  console.log(expenses["Regione per Dettaglio"]);
   for(let i = 0; i < expensesPerCategory.length; i++) {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(selectedRegion == "Tutte le regioni") {
         fill(categoriesColors[i]);
       }
-      else if((expenses["Regione per Dettaglio"] == selectedRegion) && (expenses["Anno"] == "2021") && (expenses["S - Consolidato SPA"] > j)) {
-        fill(categoriesColors[i]);
-      }
       else {
-        fill("grey");
+        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+          fill(categoriesColors[i]);
+        }
+        else {
+          fill('gray');
+        }
       }
       circle(positionX, positionY, radius * 2);
       counter++;
