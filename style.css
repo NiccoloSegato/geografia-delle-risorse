@@ -85,3 +85,9 @@ body {
   background-color: white;
   border-radius: 40px;
 }
+
+h1 {
+  font-family: 'Ortica';
+  font-size: 2rem;
+  color: #101011;
+}
