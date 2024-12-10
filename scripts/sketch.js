@@ -39,7 +39,7 @@ function setup() {
   let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
 
-  frameRate(0.5);
+  frameRate(5);
 
   expenses = data.getObject();
   expensesLength = Object.keys(expenses).length;
@@ -112,7 +112,7 @@ function setup() {
 }
 
 function draw() {
-  background('black');
+  background(backgroundColor);
   fill('white');
 
   let area = windowWidth * 0.9 * (windowHeight - 230);
@@ -145,6 +145,8 @@ function draw() {
       }
     }
   }
+
+  console.log(counter);
 }
 
 function windowResized() {
