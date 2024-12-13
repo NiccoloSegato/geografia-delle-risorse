@@ -45,7 +45,7 @@ function setup() {
 
   // Creazione dei cerchi
   for (let i = 0; i < 29; i++) {
-    let r = random(30, 60);
+    let r = windowWidth/100;
     let x = random(r, width - r); // Garantisce che il cerchio inizi entro i confini
     let y = random(r, height - r);
     circles.push({ x, y, r, velocity: createVector(0, 0) });
@@ -131,7 +131,7 @@ function draw() {
     let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
     force.setMag(0.5); // Forza attrattiva verso il centro
     circle.velocity.add(force);
-    circle.velocity.limit(2); // Limita la velocità massima
+    circle.velocity.limit(100); // Limita la velocità massima
 
     circle.x += circle.velocity.x;
     circle.y += circle.velocity.y;
