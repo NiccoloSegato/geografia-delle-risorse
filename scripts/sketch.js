@@ -1,3 +1,4 @@
+let expensesPerCategory=0;
 let totalExpenses=0;
 let circlePositions = []; // Array per memorizzare le posizioni calcolate
 
