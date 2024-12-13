@@ -10,6 +10,9 @@
 
 let data;
 let expenses;
+let circles = [];
+let color = "white";
+let center;
 
 let selectedRegion = "Tutte le regioni";
 
@@ -38,6 +41,15 @@ function preload() {
 function setup() {
   let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
+  center = createVector(width / 2, height / 2);
+
+  // Creazione dei cerchi
+  for (let i = 0; i < 29; i++) {
+    let r = random(30, 60);
+    let x = random(r, width - r); // Garantisce che il cerchio inizi entro i confini
+    let y = random(r, height - r);
+    circles.push({ x, y, r, velocity: createVector(0, 0) });
+  }
 
   frameRate(0.5);
 
@@ -112,7 +124,51 @@ function setup() {
 }
 
 function draw() {
-  background('black');
+  background(0);
+
+  // Applica forze di attrazione e risoluzione delle collisioni
+  for (let circle of circles) {
+    let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
+    force.setMag(0.5); // Forza attrattiva verso il centro
+    circle.velocity.add(force);
+    circle.velocity.limit(2); // Limita la velocità massima
+
+    circle.x += circle.velocity.x;
+    circle.y += circle.velocity.y;
+
+    // Controlla i confini
+    if (circle.x - circle.r < 0) circle.x = circle.r;
+    if (circle.x + circle.r > width) circle.x = width - circle.r;
+    if (circle.y - circle.r < 0) circle.y = circle.r;
+    if (circle.y + circle.r > height) circle.y = height - circle.r;
+
+    // Risolvi le collisioni
+    for (let other of circles) {
+      if (circle !== other) {
+        let d = dist(circle.x, circle.y, other.x, other.y);
+        let minDist = circle.r + other.r;
+        if (d < minDist) {
+          let overlap = minDist - d;
+          let direction = p5.Vector.sub(
+            createVector(circle.x, circle.y),
+            createVector(other.x, other.y)
+          );
+          direction.setMag(overlap / 2);
+          circle.x += direction.x;
+          circle.y += direction.y;
+          other.x -= direction.x;
+          other.y -= direction.y;
+        }
+      }
+    }
+  }
+
+  // Disegna i cerchi
+  noStroke();
+  for (let circle of circles) {
+    fill(color);
+    ellipse(circle.x, circle.y, circle.r * 2);
+  }
   fill('white');
 
   let area = windowWidth * 0.9 * (windowHeight - 230);
@@ -150,3 +206,5 @@ function draw() {
 function windowResized() {
   
 }
+
+
