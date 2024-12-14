@@ -22,7 +22,13 @@
     <div id="sketch-parent">
       <div id="sketch-container"></div>
     </div>
-    <div id="regions-list"></div>
+    <div id="regions-container">
+      <select id="regions-dropdown" class="regions-select" onchange="pRegionClicked(event)"></select>
+      <div id="comparison-button" onclick="pToggleComparisonButton(event)">
+        <img src="assets/images/plus.png" alt="Icona per il confronto">
+      </div>
+      <select id="comparison-dropdown" class="regions-select" onchange="pComparisonClicked(event)"></select>
+    </div>
     <script src="scripts/index.js"></script>
     <script src="scripts/sketch.js"></script>
   </body>

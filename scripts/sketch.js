@@ -15,6 +15,8 @@ let color = "white";
 let center;
 
 let selectedRegion = "Tutte le regioni";
+let selectedComparison = "Piemonte";
+let isComparison = false;
 
 let expensesLength;
 
@@ -51,7 +53,7 @@ function setup() {
     circles.push({ x, y, r, velocity: createVector(0, 0) });
   }
 
-  frameRate(0.5);
+  frameRate(60);
 
   expenses = data.getObject();
   expensesLength = Object.keys(expenses).length;
@@ -126,6 +128,71 @@ function setup() {
 function draw() {
   background(0);
 
+  if (isComparison) {
+    drawComparisonView();
+  } else {
+    drawMainView();
+  }
+}
+
+/**
+ * Funzione per disegnare la visualizzazione di confronto
+ */
+function drawComparisonView() {
+  let area = windowWidth * 0.40 * (windowHeight - 230);
+  let circleArea = area / ((totalExpenses / 100000000) * 1.8);
+  let radius = Math.sqrt(circleArea / Math.PI);
+
+  let positionX = radius;
+  let positionY = radius;
+
+  for(let i = 0; i < expensesPerCategory.length; i++) {
+    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
+      if(selectedRegion == "Tutte le regioni") {
+        fill(categoriesColors[i]);
+      }
+      else {
+        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+          fill(categoriesColors[i]);
+        }
+        else {
+          fill('gray');
+        }
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.40) {
+        positionX = radius;
+        positionY += radius * 2;
+      }
+    }
+  }
+
+  positionX = radius + windowWidth * 0.50;
+  positionY = radius;
+
+  for(let i = 0; i < expensesPerCategory.length; i++) {
+    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
+      if(j < regionDataLastYear[regions.indexOf(selectedComparison) - 1].data[i].amount) {
+        fill(categoriesColors[i]);
+      }
+      else {
+        fill('gray');
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.9) {
+        positionX = radius + windowWidth * 0.50;
+        positionY += radius * 2;
+      }
+    }
+  }
+}
+
+/**
+ * Funzione per disegnare i cerchi della visualizzazione principale
+ */
+function drawMainView() {
   // Applica forze di attrazione e risoluzione delle collisioni
   for (let circle of circles) {
     let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
