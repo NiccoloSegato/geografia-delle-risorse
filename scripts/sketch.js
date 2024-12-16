@@ -28,6 +28,8 @@ let totalExpenses = 0;
 // Create a data struct to store the region name, and for each the category and the amount
 let regionDataLastYear = [];
 
+let canvas;
+
 /**
  * Colors
  */
@@ -41,8 +43,9 @@ function preload() {
 }
 
 function setup() {
-  let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
+  canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
+  canvas.loadPixels();
 
   frameRate(60);
 
@@ -123,6 +126,11 @@ function draw() {
     drawComparisonView();
   } else {
     drawMainView();
+  }
+
+  let currentColor = rgbaToHex(canvas.get(mouseX, mouseY));
+  if(currentColor != "#000000") {
+    showHover(currentColor);
   }
 }
 
@@ -216,5 +224,37 @@ function drawMainView() {
   }
 }
 
-function windowResized() {
+/**
+ * Funzione per convertire l'array contenente i valori rgba nel codice esadecimale
+ * @param {*} rgba Array contenente [0] = r, [1] = g, [2] = b, [3] = a
+ * @returns Codice esadecimale
+ */
+function rgbaToHex(rgba) {
+  let hex = '#';
+  
+  for(let i = 0; i < 3; i++) {
+    let menoSignificativo = parseInt(rgba[i]) % 16;
+    let piuSignificativo = parseInt(parseInt(rgba[i]) / 16);
+
+    hex += piuSignificativo.toString(16);
+    hex += menoSignificativo.toString(16);
+  }
+
+  return hex.toUpperCase();
+}
+
+/**
+ * Funzione per far comparire il rettangolo dell'hover sulle categorie
+ * @param {string} hexColor Colore della categoria
+ */
+function showHover(hexColor) {
+  let indexHovered = categoriesColors.indexOf(hexColor);
+  let category = categories[indexHovered];
+
+  push();
+  fill(backgroundColor);
+  stroke("white");
+  rect(mouseX + 5, mouseY - 55, 100, 50);
+  noStroke();
+  pop();
 }
