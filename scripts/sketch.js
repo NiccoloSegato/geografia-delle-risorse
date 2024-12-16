@@ -255,14 +255,14 @@ function showHover(hexColor) {
     return;
   }
   // Calcolo la lunghezza del rettangolo
-  let textLength = category.length * 9;
+  let textLength = textWidth(category);
 
   push();
   fill(backgroundColor);
   stroke("white");
-  rect(mouseX + 5, mouseY - 55, textLength, 50);
+  rect(mouseX + 5, mouseY - 55, textLength+20, 50);
   noStroke();
   fill("white");
-  text(category, mouseX + 10, mouseY - 30);
+  text(category, mouseX + 15, mouseY - 30);
   pop();
 }
