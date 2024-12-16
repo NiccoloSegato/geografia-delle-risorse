@@ -35,23 +35,35 @@ let backgroundColor = "#252129";
 let textColor = "#ffffff";
 let categoriesColors = ["#F87A01", "#C2858C", "#016647", "#FF467B", "#0001B1", "#7469B5", "#B22F75", "#FFAFD7", "FF040F", "#84B5BC", "#DABC36", "#A69FF2", "#28D3E9", "#6D8C6B",
                         "#F28C9C", "#2FA398", "#F7B429", "#527BFF", "#CFAD7C", "#BDD2FF", "#DFF304", "#EFBE9E", "#FFD459", "#02C3BD", "#B8FFFA", "#A1153E", "#E34516", "#B19B2C", "#FFFFFF"];
-
 function preload() {
   data = loadTable('assets/dataset/uscite.csv', 'ssv', 'header');
 }
 
 function setup() {
+let cols = 6; // Numero di colonne
+  let rows = 5; // Numero di righe
+  let cellWidth = windowWidth / cols;
+  let cellHeight = windowHeight / rows;
+  let aree = [];
+
+  // Calcola i centri delle aree
+  for (let row = 0; row < rows; row++) {
+    for (let col = 0; col < cols; col++) {
+      let centerX = cellWidth * col + cellWidth / 2;
+      let centerY = cellHeight * row + cellHeight / 2;
+      aree.push({
+        x: centerX,
+        y: centerY,
+        width: cellWidth,
+        height: cellHeight,
+      });
+    }
+  }
+
+
   let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
   center = createVector(width / 2, height / 2);
-
-  // Creazione dei cerchi
-  for (let i = 0; i < 29; i++) {
-    let r = windowWidth/100;
-    let x = random(r, width - r); // Garantisce che il cerchio inizi entro i confini
-    let y = random(r, height - r);
-    circles.push({ x, y, r, velocity: createVector(0, 0) });
-  }
 
   frameRate(60);
 
@@ -122,12 +134,10 @@ function setup() {
     regionDataLastYear.push(region);
   }
 
-  console.log(regionDataLastYear);
-
-
   let area = windowWidth * 0.9 * (windowHeight - 230);
   let circleArea = area / ((totalExpenses / 100000000) * 1.8);
   let radius = Math.sqrt(circleArea / Math.PI);
+
   let counter = 0;
   for(let i = 0; i < expensesPerCategory.length; i++) {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
@@ -143,19 +153,19 @@ function setup() {
         }
       }
       let r = radius;
-      let x = random(r, width - r); // Garantisce che il cerchio inizi entro i confini
-      let y = random(r, height - r);
-      circles.push({ 
-        x, 
-        y, 
-        r, 
-        velocity: createVector(0, 0), 
-        color: categoriesColors[i] // Colore della categoria
-      });
+      let currentArea=aree[i];
+      let x = random(r, currentArea.x - r); // Garantisce che il cerchio inizi entro i confini
+      let y = random(r, currentArea.y - r);
+      let circleColor=categoriesColors[i];
+      circles.push({ x, y, r, velocity: createVector(currentArea.x, currentArea.y), color: circleColor });
       counter++;
     }
   }
+  
+  console.log(regionDataLastYear);
 }
+
+
 
 function draw() {
   background(0);
@@ -180,14 +190,22 @@ function drawComparisonView() {
 
   for(let i = 0; i < expensesPerCategory.length; i++) {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
-      if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+      if(selectedRegion == "Tutte le regioni") {
+        fill(categoriesColors[i]);
+      }
+      else {
+        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
           fill(categoriesColors[i]);
-        circle(positionX, positionY, radius * 2);
-        positionX += radius * 2;
-        if(positionX > windowWidth * 0.40) {
-          positionX = radius;
-          positionY += radius * 2;
         }
+        else {
+          fill('gray');
+        }
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.40) {
+        positionX = radius;
+        positionY += radius * 2;
       }
     }
   }
@@ -199,12 +217,15 @@ function drawComparisonView() {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(j < regionDataLastYear[regions.indexOf(selectedComparison) - 1].data[i].amount) {
         fill(categoriesColors[i]);
-        circle(positionX, positionY, radius * 2);
-        positionX += radius * 2;
-        if(positionX > windowWidth * 0.9) {
-          positionX = radius + windowWidth * 0.50;
-          positionY += radius * 2;
-        }
+      }
+      else {
+        fill('gray');
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.9) {
+        positionX = radius + windowWidth * 0.50;
+        positionY += radius * 2;
       }
     }
   }
@@ -214,29 +235,21 @@ function drawComparisonView() {
  * Funzione per disegnare i cerchi della visualizzazione principale
  */
 function drawMainView() {
-
-  let centerX = 400; // Coordinata X del centro dell'area
-  let centerY = 400; // Coordinata Y del centro dell'area
-  let areaRadius=windowWidth;
   // Applica forze di attrazione e risoluzione delle collisioni
   for (let circle of circles) {
-    let force = p5.Vector.sub(createVector(centerX, centerY), createVector(circle.x, circle.y));
+    let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
     force.setMag(0.5); // Forza attrattiva verso il centro
     circle.velocity.add(force);
-    circle.velocity.limit(2); // Limita la velocità massima
+    circle.velocity.limit(0.2); // Limita la velocità massima
 
     circle.x += circle.velocity.x;
     circle.y += circle.velocity.y;
 
     // Controlla i confini
-    let d = dist(circle.x, circle.y, center.x, center.y);
-  if (d > areaRadius - circle.r) {
-    // Se il cerchio è fuori dall'area circolare, riportalo dentro
-    let direction = p5.Vector.sub(center, createVector(circle.x, circle.y));
-    direction.setMag(d - (areaRadius - circle.r));
-    circle.x += direction.x;
-    circle.y += direction.y;
-  }
+    if (circle.x - circle.r < 0) circle.x = circle.r;
+    if (circle.x + circle.r > width) circle.x = width - circle.r;
+    if (circle.y - circle.r < 0) circle.y = circle.r;
+    if (circle.y + circle.r > height) circle.y = height - circle.r;
 
     // Risolvi le collisioni
     for (let other of circles) {
@@ -263,10 +276,9 @@ function drawMainView() {
   noStroke();
   for (let circle of circles) {
     fill(circle.color);
-    ellipse(circle.x, circle.y, circle.r*2);
+    ellipse(circle.x, circle.y, circle.r * 2);
   }
 }
 
 function windowResized() {
-  
 }
