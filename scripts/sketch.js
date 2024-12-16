@@ -123,6 +123,38 @@ function setup() {
   }
 
   console.log(regionDataLastYear);
+
+
+  let area = windowWidth * 0.9 * (windowHeight - 230);
+  let circleArea = area / ((totalExpenses / 100000000) * 1.8);
+  let radius = Math.sqrt(circleArea / Math.PI);
+  let counter = 0;
+  for(let i = 0; i < expensesPerCategory.length; i++) {
+    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
+      if(selectedRegion == "Tutte le regioni") {
+        fill(categoriesColors[i]);
+      }
+      else {
+        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+          fill(categoriesColors[i]);
+        }
+        else {
+          fill('gray');
+        }
+      }
+      let r = radius;
+      let x = random(r, width - r); // Garantisce che il cerchio inizi entro i confini
+      let y = random(r, height - r);
+      circles.push({ 
+        x, 
+        y, 
+        r, 
+        velocity: createVector(0, 0), 
+        color: categoriesColors[i] // Colore della categoria
+      });
+      counter++;
+    }
+  }
 }
 
 function draw() {
@@ -182,21 +214,29 @@ function drawComparisonView() {
  * Funzione per disegnare i cerchi della visualizzazione principale
  */
 function drawMainView() {
+
+  let centerX = 400; // Coordinata X del centro dell'area
+  let centerY = 400; // Coordinata Y del centro dell'area
+  let areaRadius=windowWidth;
   // Applica forze di attrazione e risoluzione delle collisioni
   for (let circle of circles) {
-    let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
+    let force = p5.Vector.sub(createVector(centerX, centerY), createVector(circle.x, circle.y));
     force.setMag(0.5); // Forza attrattiva verso il centro
     circle.velocity.add(force);
-    circle.velocity.limit(0.2); // Limita la velocità massima
+    circle.velocity.limit(2); // Limita la velocità massima
 
     circle.x += circle.velocity.x;
     circle.y += circle.velocity.y;
 
     // Controlla i confini
-    if (circle.x - circle.r < 0) circle.x = circle.r;
-    if (circle.x + circle.r > width) circle.x = width - circle.r;
-    if (circle.y - circle.r < 0) circle.y = circle.r;
-    if (circle.y + circle.r > height) circle.y = height - circle.r;
+    let d = dist(circle.x, circle.y, center.x, center.y);
+  if (d > areaRadius - circle.r) {
+    // Se il cerchio è fuori dall'area circolare, riportalo dentro
+    let direction = p5.Vector.sub(center, createVector(circle.x, circle.y));
+    direction.setMag(d - (areaRadius - circle.r));
+    circle.x += direction.x;
+    circle.y += direction.y;
+  }
 
     // Risolvi le collisioni
     for (let other of circles) {
@@ -222,45 +262,11 @@ function drawMainView() {
   // Disegna i cerchi
   noStroke();
   for (let circle of circles) {
-    fill(color);
-    ellipse(circle.x, circle.y, circle.r * 2);
-  }
-  fill('white');
-
-  let area = windowWidth * 0.9 * (windowHeight - 230);
-  let circleArea = area / ((totalExpenses / 100000000) * 1.8);
-  let radius = Math.sqrt(circleArea / Math.PI);
-
-  let positionX = radius;
-  let positionY = radius;
-
-  let counter = 0;
-  for(let i = 0; i < expensesPerCategory.length; i++) {
-    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
-      if(selectedRegion == "Tutte le regioni") {
-        fill(categoriesColors[i]);
-      }
-      else {
-        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
-          fill(categoriesColors[i]);
-        }
-        else {
-          fill('gray');
-        }
-      }
-      circle(positionX, positionY, radius * 2);
-      counter++;
-      positionX += radius * 2;
-      if(positionX > windowWidth * 0.9) {
-        positionX = radius;
-        positionY += radius * 2;
-      }
-    }
+    fill(circle.color);
+    ellipse(circle.x, circle.y, circle.r*2);
   }
 }
 
 function windowResized() {
   
 }
-
-
