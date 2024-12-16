@@ -198,7 +198,7 @@ function drawMainView() {
     let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
     force.setMag(0.5); // Forza attrattiva verso il centro
     circle.velocity.add(force);
-    circle.velocity.limit(100); // Limita la velocità massima
+    circle.velocity.limit(0.2); // Limita la velocità massima
 
     circle.x += circle.velocity.x;
     circle.y += circle.velocity.y;
