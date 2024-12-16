@@ -12,6 +12,7 @@
 
     <script src="libraries/p5.min.js"></script>
     <script src="libraries/p5.sound.min.js"></script>
+    <script src="scripts/toggle.js"></script>
   </head>
 
   <body>
@@ -29,7 +30,19 @@
       </div>
       <select id="comparison-dropdown" class="regions-select" onchange="pComparisonClicked(event)"></select>
     </div>
+    <div class="container">
+        <div class="toggle-button" id="toggle-button" onclick="toggleView()">
+            <div class="toggle-switch" id="toggle-switch"></div>
+        </div>
+
+        <div class="description" id="page-description">
+            <div class="circle"></div>
+            <div class="equals">=</div>
+            <div class="text">100.000.000€</div>
+        </div>
+    </div>
     <script src="scripts/index.js"></script>
     <script src="scripts/sketch.js"></script>
   </body>
+  
 </html>
