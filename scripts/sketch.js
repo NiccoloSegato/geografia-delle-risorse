@@ -148,22 +148,14 @@ function drawComparisonView() {
 
   for(let i = 0; i < expensesPerCategory.length; i++) {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
-      if(selectedRegion == "Tutte le regioni") {
-        fill(categoriesColors[i]);
-      }
-      else {
-        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+      if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
           fill(categoriesColors[i]);
+        circle(positionX, positionY, radius * 2);
+        positionX += radius * 2;
+        if(positionX > windowWidth * 0.40) {
+          positionX = radius;
+          positionY += radius * 2;
         }
-        else {
-          fill('gray');
-        }
-      }
-      circle(positionX, positionY, radius * 2);
-      positionX += radius * 2;
-      if(positionX > windowWidth * 0.40) {
-        positionX = radius;
-        positionY += radius * 2;
       }
     }
   }
@@ -175,15 +167,12 @@ function drawComparisonView() {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(j < regionDataLastYear[regions.indexOf(selectedComparison) - 1].data[i].amount) {
         fill(categoriesColors[i]);
-      }
-      else {
-        fill('gray');
-      }
-      circle(positionX, positionY, radius * 2);
-      positionX += radius * 2;
-      if(positionX > windowWidth * 0.9) {
-        positionX = radius + windowWidth * 0.50;
-        positionY += radius * 2;
+        circle(positionX, positionY, radius * 2);
+        positionX += radius * 2;
+        if(positionX > windowWidth * 0.9) {
+          positionX = radius + windowWidth * 0.50;
+          positionY += radius * 2;
+        }
       }
     }
   }
