@@ -8,9 +8,23 @@
  * Questo script carica la rappresentazione grafica usando il framework p5.js
  */
 
+
+//CODICE DI PROVA CIRCLE PACKING****************************************************************************************************** */
+const steps = 1000;
+const circles = []; // Primo livello: cerchi grandi
+
+const margin = 10;
+
+const minRadius = 50; // Raggio minimo dei cerchi grandi
+const maxRadius = 200; // Raggio massimo dei cerchi grandi
+const stepRadius = 1;
+
+const smallRadius = 10; // Raggio fisso dei cerchi piccoli
+const densityFactor = 0.5; // Fattore di densità per il numero massimo di cerchi piccoli
+//*************************************************************************************************************************** */
+
 let data;
 let expenses;
-let circles = [];
 let color = "white";
 let center;
 
@@ -117,6 +131,21 @@ function setup() {
   }
 }
 
+//********************************************************************************************************************** */
+function collides(x, y, r, array) {
+  // Controlla se un cerchio collide con i margini o altri cerchi in un array
+  if (x - r < margin || x + r > width - margin || y - r < margin || y + r > height - margin) return true;
+  return array.find(c => dist(c.x, c.y, x, y) <= c.r + r);
+}
+
+function maxSmallCircles(bigRadius) {
+  // Calcola il numero massimo di cerchi piccoli in base al raggio del cerchio grande
+  const bigArea = PI * bigRadius * bigRadius;
+  const smallArea = PI * smallRadius * smallRadius;
+  return floor(densityFactor * (bigArea / smallArea));
+}
+//********************************************************************************************************************** */
+
 
 
 function draw() {
@@ -137,10 +166,67 @@ function draw() {
 /**
  * Funzione per disegnare la visualizzazione di confronto
  */
+
+
 function drawComparisonView() {
+
   let area = windowWidth * 0.40 * (windowHeight - 230);
   let circleArea = area / ((totalExpenses / 100000000) * 1.8);
   let radius = Math.sqrt(circleArea / Math.PI);
+
+//************************************************************************************************************************** */
+  // Genera il primo livello: cerchi grandi
+  for (let i = 0; i < steps; i++) {
+    const x = lerp(margin, width - margin, random());
+    const y = lerp(margin, height - margin, random());
+    for (let r = minRadius; r <= maxRadius; r += stepRadius) {
+      const col = collides(x, y, r, circles);
+      if (col && r == minRadius) break;
+      if (col) {
+        r -= stepRadius;
+        const color = categoriesColors[circles.length % categoriesColors.length]; // Assegna un colore ciclico
+        noFill();
+        noStroke();
+        circle(x, y, r * 2); // Disegna il cerchio grande
+        circles.push({ x, y, r, color, smallCircles: [] }); // Aggiungi all'array del primo livello
+        break;
+      }
+      if (!col && r == maxRadius) {
+        const color = categoriesColors[circles.length % categoriesColors.length];
+        noFill();
+        noStroke();
+        circle(x, y, r * 2);
+        circles.push({ x, y, r, color, smallCircles: [] });
+        break;
+      }
+    }
+    if (circles.length === categoriesColors.length) break; // Limita il numero di cerchi grandi ai colori disponibili
+  }
+
+    // Genera il secondo livello: cerchi piccoli dentro ogni cerchio grande
+    for (let big of circles) {
+      const { x: cx, y: cy, r: bigR, color } = big;
+      const smallCircles = [];
+      const maxCount = maxSmallCircles(bigR); // Calcola il numero massimo di cerchi piccoli
+      fill(color); // Usa il colore del cerchio grande per i cerchi piccoli
+      for (let i = 0; i < steps; i++) {
+        const sx = random(cx - bigR + smallRadius, cx + bigR - smallRadius);
+        const sy = random(cy - bigR + smallRadius, cy + bigR - smallRadius);
+        const col = collides(sx, sy, smallRadius, smallCircles);
+        const insideBig = dist(sx, sy, cx, cy) + smallRadius <= bigR;
+        if (!col && insideBig) {
+          smallCircles.push({ x: sx, y: sy, radius });
+          circle(sx, sy, smallRadius * 2); // Disegna il cerchio piccolo
+        }
+        if (smallCircles.length >= maxCount) break; // Limita il numero di cerchi piccoli
+      }
+      big.smallCircles = smallCircles; // Salva i cerchi piccoli nel cerchio grande
+    }
+
+//************************************************************************************************************************** */
+
+
+
 
   let positionX = radius;
   let positionY = radius;
@@ -198,21 +284,25 @@ function drawMainView() {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(selectedRegion == "Tutte le regioni") {
         fill(categoriesColors[i]);
+        circle(positionX, positionY, radius * 2);
+        counter++;
+        positionX += radius * 2;
+        if(positionX > windowWidth * 0.9) {
+          positionX = radius;
+          positionY += radius * 2;
+        }
       }
       else {
         if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
           fill(categoriesColors[i]);
+          circle(positionX, positionY, radius * 2);
+          counter++;
+          positionX += radius * 2;
+          if(positionX > windowWidth * 0.9) {
+            positionX = radius;
+            positionY += radius * 2;
+          }
         }
-        else {
-          fill('gray');
-        }
-      }
-      circle(positionX, positionY, radius * 2);
-      counter++;
-      positionX += radius * 2;
-      if(positionX > windowWidth * 0.9) {
-        positionX = radius;
-        positionY += radius * 2;
       }
     }
   }

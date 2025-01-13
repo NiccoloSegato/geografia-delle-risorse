@@ -1,0 +1,95 @@
+const steps = 1000;
+const circles = []; // Primo livello: cerchi grandi
+
+const margin = 10;
+
+const minRadius = 50; // Raggio minimo dei cerchi grandi
+const maxRadius = 200; // Raggio massimo dei cerchi grandi
+const stepRadius = 1;
+
+const smallRadius = 10; // Raggio fisso dei cerchi piccoli
+const densityFactor = 0.5; // Fattore di densità per il numero massimo di cerchi piccoli
+
+const weight = 2;
+
+// Colori per i cerchi grandi
+const categoriesColors = [
+  "#F87A01", "#C2858C", "#016647", "#FF467B", "#0001B1", "#7469B5", "#B22F75", "#FFAFD7", "#FF040F",
+  "#84B5BC", "#DABC36", "#A69FF2", "#28D3E9", "#6D8C6B", "#F28C9C", "#2FA398", "#F7B429", "#527BFF",
+  "#CFAD7C", "#BDD2FF", "#DFF304", "#EFBE9E", "#FFD459", "#02C3BD", "#B8FFFA", "#A1153E", "#E34516",
+  "#B19B2C", "#FFFFFF"
+];
+
+function collides(x, y, r, array) {
+  // Controlla se un cerchio collide con i margini o altri cerchi in un array
+  if (x - r < margin || x + r > width - margin || y - r < margin || y + r > height - margin) return true;
+  return array.find(c => dist(c.x, c.y, x, y) <= c.r + r);
+}
+
+function maxSmallCircles(bigRadius) {
+  // Calcola il numero massimo di cerchi piccoli in base al raggio del cerchio grande
+  const bigArea = PI * bigRadius * bigRadius;
+  const smallArea = PI * smallRadius * smallRadius;
+  return floor(densityFactor * (bigArea / smallArea));
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  background(255);
+  stroke(0);
+  strokeWeight(weight);
+  strokeJoin(ROUND);
+  noLoop();
+  noFill();
+  rectMode(CENTER);
+}
+
+function draw() {
+  // Genera il primo livello: cerchi grandi
+  for (let i = 0; i < steps; i++) {
+    const x = lerp(margin, width - margin, random());
+    const y = lerp(margin, height - margin, random());
+    for (let r = minRadius; r <= maxRadius; r += stepRadius) {
+      const col = collides(x, y, r, circles);
+      if (col && r == minRadius) break;
+      if (col) {
+        r -= stepRadius;
+        const color = categoriesColors[circles.length % categoriesColors.length]; // Assegna un colore ciclico
+        noFill();
+        noStroke();
+        circle(x, y, r * 2); // Disegna il cerchio grande
+        circles.push({ x, y, r, color, smallCircles: [] }); // Aggiungi all'array del primo livello
+        break;
+      }
+      if (!col && r == maxRadius) {
+        const color = categoriesColors[circles.length % categoriesColors.length];
+        noFill();
+        noStroke();
+        circle(x, y, r * 2);
+        circles.push({ x, y, r, color, smallCircles: [] });
+        break;
+      }
+    }
+    if (circles.length === categoriesColors.length) break; // Limita il numero di cerchi grandi ai colori disponibili
+  }
+
+  // Genera il secondo livello: cerchi piccoli dentro ogni cerchio grande
+  for (let big of circles) {
+    const { x: cx, y: cy, r: bigR, color } = big;
+    const smallCircles = [];
+    const maxCount = maxSmallCircles(bigR); // Calcola il numero massimo di cerchi piccoli
+    fill(color); // Usa il colore del cerchio grande per i cerchi piccoli
+    for (let i = 0; i < steps; i++) {
+      const sx = random(cx - bigR + smallRadius, cx + bigR - smallRadius);
+      const sy = random(cy - bigR + smallRadius, cy + bigR - smallRadius);
+      const col = collides(sx, sy, smallRadius, smallCircles);
+      const insideBig = dist(sx, sy, cx, cy) + smallRadius <= bigR;
+      if (!col && insideBig) {
+        smallCircles.push({ x: sx, y: sy, r: smallRadius });
+        circle(sx, sy, smallRadius * 2); // Disegna il cerchio piccolo
+      }
+      if (smallCircles.length >= maxCount) break; // Limita il numero di cerchi piccoli
+    }
+    big.smallCircles = smallCircles; // Salva i cerchi piccoli nel cerchio grande
+  }
+}
