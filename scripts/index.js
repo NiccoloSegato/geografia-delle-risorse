@@ -78,6 +78,7 @@ function pToggleComparisonButton(e) {
         // Modifico la visualizzazione
         isComparison = true;
     }
+    tToggleVisibility();
 }
 
 /**
@@ -86,5 +87,4 @@ function pToggleComparisonButton(e) {
  */
 function pComparisonClicked(e) {
     selectedComparison = e.target.value;
-    tToggleVisibility();
 }
