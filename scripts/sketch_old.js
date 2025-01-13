@@ -3,7 +3,7 @@
  * Politecnico di Milano - AA 2024/25
  * Design della Comunicazione - Laboratorio di Computer Grafica per l'Information Design
  * 
- * Authors: Bano, Chinni, Lages, Magalhaes, Menoni, Piganzoli, Segato
+ * Authors: Bano Katring, Chinni, Lages, Magalhaes, Menoni, Piganzoli, Segato
  * 
  * Questo script carica la rappresentazione grafica usando il framework p5.js
  */
@@ -28,8 +28,6 @@ let totalExpenses = 0;
 // Create a data struct to store the region name, and for each the category and the amount
 let regionDataLastYear = [];
 
-let canvas;
-
 /**
  * Colors
  */
@@ -37,15 +35,35 @@ let backgroundColor = "#252129";
 let textColor = "#ffffff";
 let categoriesColors = ["#F87A01", "#C2858C", "#016647", "#FF467B", "#0001B1", "#7469B5", "#B22F75", "#FFAFD7", "FF040F", "#84B5BC", "#DABC36", "#A69FF2", "#28D3E9", "#6D8C6B",
                         "#F28C9C", "#2FA398", "#F7B429", "#527BFF", "#CFAD7C", "#BDD2FF", "#DFF304", "#EFBE9E", "#FFD459", "#02C3BD", "#B8FFFA", "#A1153E", "#E34516", "#B19B2C", "#FFFFFF"];
-
 function preload() {
   data = loadTable('assets/dataset/uscite.csv', 'ssv', 'header');
 }
 
 function setup() {
-  canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
+let cols = 6; // Numero di colonne
+  let rows = 5; // Numero di righe
+  let cellWidth = windowWidth / cols;
+  let cellHeight = windowHeight / rows;
+  let aree = [];
+
+  // Calcola i centri delle aree
+  for (let row = 0; row < rows; row++) {
+    for (let col = 0; col < cols; col++) {
+      let centerX = cellWidth * col + cellWidth / 2;
+      let centerY = cellHeight * row + cellHeight / 2;
+      aree.push({
+        x: centerX,
+        y: centerY,
+        width: cellWidth,
+        height: cellHeight,
+      });
+    }
+  }
+
+
+  let canvas = createCanvas(windowWidth * 0.9, windowHeight - 230);
   canvas.parent("sketch-container");
-  canvas.loadPixels();
+  center = createVector(width / 2, height / 2);
 
   frameRate(60);
 
@@ -115,6 +133,36 @@ function setup() {
     }
     regionDataLastYear.push(region);
   }
+
+  let area = windowWidth * 0.9 * (windowHeight - 230);
+  let circleArea = area / ((totalExpenses / 100000000) * 1.8);
+  let radius = Math.sqrt(circleArea / Math.PI);
+
+  let counter = 0;
+  for(let i = 0; i < expensesPerCategory.length; i++) {
+    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
+      if(selectedRegion == "Tutte le regioni") {
+        fill(categoriesColors[i]);
+      }
+      else {
+        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
+          fill(categoriesColors[i]);
+        }
+        else {
+          fill('gray');
+        }
+      }
+      let r = radius;
+      let currentArea=aree[i];
+      let x = random(r, currentArea.x - r); // Garantisce che il cerchio inizi entro i confini
+      let y = random(r, currentArea.y - r);
+      let circleColor=categoriesColors[i];
+      circles.push({ x, y, r, velocity: createVector(currentArea.x, currentArea.y), color: circleColor });
+      counter++;
+    }
+  }
+  
+  console.log(regionDataLastYear);
 }
 
 
@@ -126,11 +174,6 @@ function draw() {
     drawComparisonView();
   } else {
     drawMainView();
-  }
-
-  let currentColor = rgbaToHex(canvas.get(mouseX, mouseY));
-  if(currentColor != "#000000") {
-    showHover(currentColor);
   }
 }
 
@@ -153,13 +196,16 @@ function drawComparisonView() {
       else {
         if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
           fill(categoriesColors[i]);
-          circle(positionX, positionY, radius * 2);
-          positionX += radius * 2;
-          if(positionX > windowWidth * 0.40) {
-            positionX = radius;
-            positionY += radius * 2;
-          }
         }
+        else {
+          fill('gray');
+        }
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.40) {
+        positionX = radius;
+        positionY += radius * 2;
       }
     }
   }
@@ -171,12 +217,15 @@ function drawComparisonView() {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(j < regionDataLastYear[regions.indexOf(selectedComparison) - 1].data[i].amount) {
         fill(categoriesColors[i]);
-        circle(positionX, positionY, radius * 2);
-        positionX += radius * 2;
-        if(positionX > windowWidth * 0.9) {
-          positionX = radius + windowWidth * 0.50;
-          positionY += radius * 2;
-        }
+      }
+      else {
+        fill('gray');
+      }
+      circle(positionX, positionY, radius * 2);
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.9) {
+        positionX = radius + windowWidth * 0.50;
+        positionY += radius * 2;
       }
     }
   }
@@ -186,81 +235,50 @@ function drawComparisonView() {
  * Funzione per disegnare i cerchi della visualizzazione principale
  */
 function drawMainView() {
-  let area = windowWidth * 0.9 * (windowHeight - 230);
-  let circleArea = area / ((totalExpenses / 100000000) * 1.8);
-  let radius = Math.sqrt(circleArea / Math.PI);
+  // Applica forze di attrazione e risoluzione delle collisioni
+  for (let circle of circles) {
+    let force = p5.Vector.sub(center, createVector(circle.x, circle.y));
+    force.setMag(0.5); // Forza attrattiva verso il centro
+    circle.velocity.add(force);
+    circle.velocity.limit(0.2); // Limita la velocità massima
 
-  let positionX = radius;
-  let positionY = radius;
+    circle.x += circle.velocity.x;
+    circle.y += circle.velocity.y;
 
-  let counter = 0;
-  for(let i = 0; i < expensesPerCategory.length; i++) {
-    for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
-      if(selectedRegion == "Tutte le regioni") {
-        fill(categoriesColors[i]);
-        circle(positionX, positionY, radius * 2);
-        counter++;
-        positionX += radius * 2;
-        if(positionX > windowWidth * 0.9) {
-          positionX = radius;
-          positionY += radius * 2;
-        }
-      }
-      else {
-        if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
-          fill(categoriesColors[i]);
-          circle(positionX, positionY, radius * 2);
-          counter++;
-          positionX += radius * 2;
-          if(positionX > windowWidth * 0.9) {
-            positionX = radius;
-            positionY += radius * 2;
-          }
+    // Controlla i confini
+    if (circle.x - circle.r < 0) circle.x = circle.r;
+    if (circle.x + circle.r > width) circle.x = width - circle.r;
+    if (circle.y - circle.r < 0) circle.y = circle.r;
+    if (circle.y + circle.r > height) circle.y = height - circle.r;
+
+    // Risolvi le collisioni
+    for (let other of circles) {
+      if (circle !== other) {
+        let d = dist(circle.x, circle.y, other.x, other.y);
+        let minDist = circle.r + other.r;
+        if (d < minDist) {
+          let overlap = minDist - d;
+          let direction = p5.Vector.sub(
+            createVector(circle.x, circle.y),
+            createVector(other.x, other.y)
+          );
+          direction.setMag(overlap / 2);
+          circle.x += direction.x;
+          circle.y += direction.y;
+          other.x -= direction.x;
+          other.y -= direction.y;
         }
       }
     }
   }
-}
 
-/**
- * Funzione per convertire l'array contenente i valori rgba nel codice esadecimale
- * @param {*} rgba Array contenente [0] = r, [1] = g, [2] = b, [3] = a
- * @returns Codice esadecimale
- */
-function rgbaToHex(rgba) {
-  let hex = '#';
-  
-  for(let i = 0; i < 3; i++) {
-    let menoSignificativo = parseInt(rgba[i]) % 16;
-    let piuSignificativo = parseInt(parseInt(rgba[i]) / 16);
-
-    hex += piuSignificativo.toString(16);
-    hex += menoSignificativo.toString(16);
-  }
-
-  return hex.toUpperCase();
-}
-
-/**
- * Funzione per far comparire il rettangolo dell'hover sulle categorie
- * @param {string} hexColor Colore della categoria
- */
-function showHover(hexColor) {
-  let indexHovered = categoriesColors.indexOf(hexColor);
-  let category = categories[indexHovered];
-
-  if(category == undefined) {
-    return;
-  }
-  // Calcolo la lunghezza del rettangolo
-  let textLength = textWidth(category);
-
-  push();
-  fill(backgroundColor);
-  stroke("white");
-  rect(mouseX + 5, mouseY - 55, textLength+20, 50);
+  // Disegna i cerchi
   noStroke();
-  fill("white");
-  text(category, mouseX + 15, mouseY - 30);
-  pop();
+  for (let circle of circles) {
+    fill(circle.color);
+    ellipse(circle.x, circle.y, circle.r * 2);
+  }
+}
+
+function windowResized() {
 }
