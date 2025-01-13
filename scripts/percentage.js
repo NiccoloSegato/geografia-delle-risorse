@@ -25,7 +25,9 @@ function pLoadPercentages() {
         let regionData = [];
         let regionTotal = regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount;
 
-        console.log(regionTotal);
+        console.log(region + " - " + regionTotal);
+
+        console.log(regionDataLastYear);
     }
 
     console.log(percentageData);
