@@ -164,3 +164,7 @@ h1 {
   font-size: 1em;
   font-weight: bold;
 }
+
+#toggle-container {
+  display: none;
+}

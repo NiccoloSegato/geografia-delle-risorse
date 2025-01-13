@@ -23,32 +23,9 @@ function pLoadPercentages() {
     for (let i = 0; i < regions.length; i++) {
         let region = regions[i];
         let regionData = [];
-        let regionTotal = regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount
+        let regionTotal = regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount;
 
-        // Iterazione per ogni categoria
-        for (let j = 0; j < categories.length; j++) {
-            let category = categories[j];
-            let categoryTotal = 0;
-
-            // Iterazione per ogni spesa
-            for (let k = 0; k < expensesLength; k++) {
-                let expense = expenses[k];
-                if (expense['Regione per Dettaglio'] === region && expense['Categoria'] === category) {
-                    categoryTotal += parseInt(expense['Importo']);
-                }
-            }
-
-            regionData.push(categoryTotal);
-            regionTotal += categoryTotal;
-        }
-
-        // Calcolo dei valori percentuali
-        let regionPercentage = [];
-        for (let j = 0; j < regionData.length; j++) {
-            regionPercentage.push(regionData[j] / regionTotal * 100);
-        }
-
-        percentageData.push(regionPercentage);
+        console.log(regionTotal);
     }
 
     console.log(percentageData);

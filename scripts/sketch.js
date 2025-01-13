@@ -198,25 +198,21 @@ function drawMainView() {
     for(let j = 0; j < expensesPerCategory[i]; j+= 100000000) {
       if(selectedRegion == "Tutte le regioni") {
         fill(categoriesColors[i]);
-        circle(positionX, positionY, radius * 2);
-        counter++;
-        positionX += radius * 2;
-        if(positionX > windowWidth * 0.9) {
-          positionX = radius;
-          positionY += radius * 2;
-        }
       }
       else {
         if(j < regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount) {
           fill(categoriesColors[i]);
-          circle(positionX, positionY, radius * 2);
-          counter++;
-          positionX += radius * 2;
-          if(positionX > windowWidth * 0.9) {
-            positionX = radius;
-            positionY += radius * 2;
-          }
         }
+        else {
+          fill('gray');
+        }
+      }
+      circle(positionX, positionY, radius * 2);
+      counter++;
+      positionX += radius * 2;
+      if(positionX > windowWidth * 0.9) {
+        positionX = radius;
+        positionY += radius * 2;
       }
     }
   }
