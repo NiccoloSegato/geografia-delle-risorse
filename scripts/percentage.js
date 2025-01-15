@@ -12,25 +12,33 @@
  * Viene quindi calcolata la percentuale per ogni categoria per ogni regione e il numero di pallini da rappresentare.
  */
 
-// In questo array verranno messi, in ordine di categoria, i valori percentuali
-let percentageData = [];
+// In questo array vengono salvate i valori percentuali per categoria della regione selezionata
+let selectedPercentageData = [];
+
+// In questo array vengono salvati i valori percentuali per categoria della regione di confronto
 
 /**
  * Funzione per calcolare i valori percentuali
  */
 function pLoadPercentages() {
-    // Iterazione per ogni regione
-    for (let i = 0; i < regions.length; i++) {
-        let region = regions[i];
-        let regionData = [];
-        let regionTotal = regionDataLastYear[regions.indexOf(selectedRegion) - 1].data[i].amount;
+    // Trovo gli indici delle regioni selezionate nell'array delle regioni
+    let pSelRegionIndex = regions.indexOf(selectedRegion);
+    let pCompRegionIndex = regions.indexOf(selectedComparison);
 
-        console.log(region + " - " + regionTotal);
-
-        console.log(regionDataLastYear);
+    // Calcolo il totale per le regioni selezionate
+    let totalSelected = 0;
+    let totalComparison = 0;
+    for(let i = 0; i < regionDataLastYear[pSelRegionIndex].data.length; i++) {
+        totalSelected += regionDataLastYear[pSelRegionIndex].data[i];
+        totalComparison += regionDataLastYear[pCompRegionIndex].data[i];
     }
 
-    console.log(percentageData);
+    // Calcolo i valori percentuali per la regione selezionata
+    for(let i = 0; i < regionDataLastYear.length; i++) {
+        let percentage = regionDataLastYear[pSelRegionIndex].data[i] / totalSelected * 100;
+        selectedPercentageData.push(percentage);
+    }
+
 }
 
 

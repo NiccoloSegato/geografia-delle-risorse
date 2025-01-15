@@ -23,7 +23,7 @@ function tToggleView() {
     toggleButton.classList.toggle("active", activeOption === 1);
     descriptionText.textContent = descriptions[activeOption];
 
-    if(activeOption === 1 && percentageData.length === 0) {
+    if(activeOption === 1) {
         pLoadPercentages();
     }
 }
